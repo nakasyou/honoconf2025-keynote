@@ -1,0 +1,3872 @@
+[
+  {
+    "name": "hono",
+    "version": "0.0.1",
+    "date": "2021-12-14T20:08:48.334Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.1.tgz",
+    "unpackedBytes": 7838,
+    "fileCount": 7,
+    "integrity": "sha512-vsd3MQH9+4rOlm3k57kTfuItyPLYwRlAv1wB7viTYZYyNIxifwR0q8ZvAllkQqpJsuG7cTSS8obom8xG+cE6vA==",
+    "shasum": "878d335f01558a04e1213e8058569180bf1d4897"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.7",
+    "date": "2022-01-01T06:35:47.676Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.7.tgz",
+    "unpackedBytes": 24854,
+    "fileCount": 17,
+    "integrity": "sha512-FeiuXduri+fvo+zkiUe8N6T3wM0RO1BYUHO+9YucrOZxyRrHe90S8edPYvFxUHitCGgbvwRxzc7VmOgmDlysqw==",
+    "shasum": "b76a1d18f01c2e51d7207bb03078bf9a7fc1f614"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.2",
+    "date": "2021-12-14T20:26:25.422Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.2.tgz",
+    "unpackedBytes": 8288,
+    "fileCount": 7,
+    "integrity": "sha512-ewuAfKpme4zDzI0zafuuwvpyGaC4CZEiCJSpi1uhVMKsLsrFsOeMpyFpeyv+24mqtEivLLzyieU7uTBUqxDMog==",
+    "shasum": "cbe7149ba7b7f55a427fd97099352af85ab06f17"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.6",
+    "date": "2021-12-28T06:14:43.576Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.6.tgz",
+    "unpackedBytes": 22865,
+    "fileCount": 13,
+    "integrity": "sha512-gGgAw6B+HzzG9QQfKm77C9auPsQOToKHG+kko2IAOLK1iDFqCGGkhbzzAymeVaVswhohL+RQn7q/SuFNXOCGRg==",
+    "shasum": "1b37a7f3132cbb4c58c52ef0f069107d2aeca752"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.3",
+    "date": "2021-12-17T08:19:29.815Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.3.tgz",
+    "unpackedBytes": 17351,
+    "fileCount": 14,
+    "integrity": "sha512-o4+gYgDuvvY0lrXBk2M7UT2QTgpF+UQ8q6JxiX+3e1sghWx6XMt424N/6d7imOmml4cz5lp7BFMGvH1XoKwgfg==",
+    "shasum": "601e3fab57b5fb1a8ca2eb4949af62fccb435c38"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.4",
+    "date": "2021-12-21T08:41:10.430Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.4.tgz",
+    "unpackedBytes": 21812,
+    "fileCount": 15,
+    "integrity": "sha512-keQ6OEWsaI7wLKr/uwjuWmyFy6d4LEfKV1It5RTh0mRJkbO3STul12wvWOT1PA3u3//ESfdiDUpetZshWxg/6w==",
+    "shasum": "d7e4180fc7238ddf731ed0eb11c9265cc14dc36a"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.8",
+    "date": "2022-01-01T07:25:12.696Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.8.tgz",
+    "unpackedBytes": 26374,
+    "fileCount": 20,
+    "integrity": "sha512-ozw4pXzOhifF2+Z8rxcgDHgtnyoluhJbbYNAy9jJ/TPx9O1rGBu7JPNXYcRIMdLG8OvDpSYcVmUe532U1ZxRcA==",
+    "shasum": "6a135a4308a8c45930084ac5c54b5997f6a36732"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.9",
+    "date": "2022-01-01T15:31:24.891Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.9.tgz",
+    "unpackedBytes": 33625,
+    "fileCount": 21,
+    "integrity": "sha512-oqzM702lNKsG3BoJD7Z31R4ocTeNmYF+Wr+ObCwAalo0vWt2Gbi9ASzi33iUl04/SmduGa6vCua82BXCMXtY5A==",
+    "shasum": "43933b9dacdf3c9e3db53acd4edf22960e455a81"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.5",
+    "date": "2021-12-27T16:36:16.737Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.5.tgz",
+    "unpackedBytes": 21786,
+    "fileCount": 13,
+    "integrity": "sha512-+6gXSktwuvpz2g8Jh7UXLriTJeYQ60HltdJv7mQscviHlBl4HSGjL2WUyeuP+cwZxYoBFxQYHikM/2gvcdcUJg==",
+    "shasum": "826643f9e685d69a55ef92f485e6dca19e0cd02b"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.14",
+    "date": "2022-01-16T12:57:05.276Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.14.tgz",
+    "unpackedBytes": 35340,
+    "fileCount": 27,
+    "integrity": "sha512-w61eaez2gJkIv7w4JQ5b6TMj8ApGAFFP7WwATgwobRL+CPuUkcknlg7URRPGatosa2R3Q7INSzqlvzDVh/OL8Q==",
+    "shasum": "5db6606b10b8581dd670dc95e20c43544f7bc7b7"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.12",
+    "date": "2022-01-08T05:00:57.925Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.12.tgz",
+    "unpackedBytes": 31213,
+    "fileCount": 25,
+    "integrity": "sha512-iq9f/GXlx2k8WSdt7Tdl4J2UZMCv9ow5p1QcWBjSUvzkjg2qa9o5uoaKrWxI6l/k2myOznkuSzayMqoO7Orh/w==",
+    "shasum": "c70f817829f86ec12049a17d4a95d0fb09683b5a"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.10",
+    "date": "2022-01-03T09:16:07.125Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.10.tgz",
+    "unpackedBytes": 35598,
+    "fileCount": 20,
+    "integrity": "sha512-AVFKjyIJwOC0EBReca99Zj24PAdAxFfPWZo5jRe4LVBX21Qu1pUBJdDtcaiogLYSMXOrBXHdbcm4fzdLBRVu6w==",
+    "shasum": "bb48dc8b107f45e66b6a088349de0b9a598038cc"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.13",
+    "date": "2022-01-12T00:33:37.688Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.13.tgz",
+    "unpackedBytes": 34692,
+    "fileCount": 27,
+    "integrity": "sha512-QpX0Cd3a4pUrD1en33Ys/s9XgAhOMm2Q1r8u6G1TmCd6QnGUVh1YqSPvimpy1fzZc7COc2XWCz/Zis6yChtIsA==",
+    "shasum": "2b0ef3e4258a403eae517163bcc66318523b6a32"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.11",
+    "date": "2022-01-05T12:38:44.338Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.11.tgz",
+    "unpackedBytes": 24232,
+    "fileCount": 23,
+    "integrity": "sha512-HvLIYZyUmUwS+WS6kXxWgmpmr20l+BL8y/09Vp7rrvHtuIrO7VH6Y6P5RWOcuBqm4wo4Zka8OBAtbs5jE+M6xA==",
+    "shasum": "822f09d05ec312d5edad05bd2ebb1b2d93762476"
+  },
+  {
+    "name": "hono",
+    "version": "0.1.0",
+    "date": "2022-01-21T14:40:18.551Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.1.0.tgz",
+    "unpackedBytes": 39014,
+    "fileCount": 31,
+    "integrity": "sha512-aMw131iSxposXKcjbxF2niKou8ah2wlmPPBBhX81cmwuztw3yJ/LAk4UadvvYZoCAKTVjFKT7UFB9w79UgwdDA==",
+    "shasum": "4a93ce88e1869c7630720c05a3619025772af331"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.15",
+    "date": "2022-01-18T16:46:47.329Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.15.tgz",
+    "unpackedBytes": 35412,
+    "fileCount": 27,
+    "integrity": "sha512-VF7vw9iF+gXRVhtRF1VMRk23zotpGITP41hpmrLmvQ9PXTgjoRyNiSVQ1bCUbZ9z3Wc+vQ/dfErcCYwEoxxbeQ==",
+    "shasum": "e3b6485e236aa8c76566d08bf7f1f8996c7c586d"
+  },
+  {
+    "name": "hono",
+    "version": "0.0.16",
+    "date": "2022-01-19T09:47:34.715Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.0.16.tgz",
+    "unpackedBytes": 38654,
+    "fileCount": 29,
+    "integrity": "sha512-pWCGrBeC3i8h+4GkIHIr2mtimp46TEWO7S9PpnqrfzGDpEjQ6v1Rl5gcWjv0ooBqo/3sUVuwiRJZDkiEQjbVog==",
+    "shasum": "a9cf2c7544ca429c6637751a7c242cd2ac5700e9"
+  },
+  {
+    "name": "hono",
+    "version": "0.2.2",
+    "date": "2022-01-29T00:32:03.024Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.2.2.tgz",
+    "unpackedBytes": 46445,
+    "fileCount": 37,
+    "integrity": "sha512-LETFd0YwtMtn8HDESkM8CWJXNV8UkWk2Jeljk5RqbgTxMWnkTZ1ttWXzQh7KhA1GQwrl/sTvvZSmJfmWnGWRtQ==",
+    "shasum": "65a4cab15dc03ab3e7c88ba7b9207cee2f3a8a84"
+  },
+  {
+    "name": "hono",
+    "version": "0.2.0",
+    "date": "2022-01-26T04:13:00.388Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.2.0.tgz",
+    "unpackedBytes": 42083,
+    "fileCount": 33,
+    "integrity": "sha512-3OmeVXiVqlrKFgtcYQKbDAeLb4bP+cmH9HR6hjeCt01xk3ZV+PvU36kCdzCOdX4RUDp6O2D00uUToBoEv/2j1w==",
+    "shasum": "fcd64799842ddc539726c1b1d99376eee2dbc686"
+  },
+  {
+    "name": "hono",
+    "version": "0.2.4",
+    "date": "2022-01-31T05:42:45.346Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.2.4.tgz",
+    "unpackedBytes": 51357,
+    "fileCount": 41,
+    "integrity": "sha512-un/f3+wTJAtcOahrpykPOI7IbmsOpqbxkykAplXplAXUIajRau077y4YxkFFa8xMZNwQ1kVU/qo8AZ5Sn7ixtA==",
+    "shasum": "00b55293da471cfdb4886de2d0cc117b1e295491"
+  },
+  {
+    "name": "hono",
+    "version": "0.2.1",
+    "date": "2022-01-29T00:13:58.801Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.2.1.tgz",
+    "unpackedBytes": 46584,
+    "fileCount": 37,
+    "integrity": "sha512-ij9R/qJpjTgLOqQB64JyhNNMgTPndhuZc7f0gjUz4VUSc6Ng9/NYPSmGQktPaLAqkqOp5iYLIVK8C2FFXBNysw==",
+    "shasum": "db1f80f8e33bca6c2124307932d8b5f4770d7a3f"
+  },
+  {
+    "name": "hono",
+    "version": "0.3.1",
+    "date": "2022-02-02T01:30:58.125Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.3.1.tgz",
+    "unpackedBytes": 50587,
+    "fileCount": 41,
+    "integrity": "sha512-omdeMUscdYv8H5lnPwcuBf5hDEw0/YVCko4unpEV8yFVCzjgMxgHGeU/AeJPPFKfBKCQPA2xmpJjVEVmhLFEzA==",
+    "shasum": "b0cea6b03f2044ee422f7578a812da01271fdb1f"
+  },
+  {
+    "name": "hono",
+    "version": "0.2.3",
+    "date": "2022-01-29T01:32:20.506Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.2.3.tgz",
+    "unpackedBytes": 45732,
+    "fileCount": 37,
+    "integrity": "sha512-yZgy/b+NV9fiZpMVEYaH5x71o1OJ7yu90XLI6SCDvwqMQkDiItC1tI7s14KOouCraS95/VqX3v2zblUf/sLRCQ==",
+    "shasum": "fa614f0f52d37bbcb7e3e26857a86ba52d9894ca"
+  },
+  {
+    "name": "hono",
+    "version": "0.3.0",
+    "date": "2022-02-01T13:17:31.971Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.3.0.tgz",
+    "unpackedBytes": 50348,
+    "fileCount": 41,
+    "integrity": "sha512-TUqO//vms6mHW7cSk08mKfoX7R1UB8BT3hVlolkwmKHQe3LIpOZ+vIHoZ+1/k0zUUAH52usbfHfF14c2kymWtw==",
+    "shasum": "3b45f7722ecb09000438ba4dd726ff104ee11945"
+  },
+  {
+    "name": "hono",
+    "version": "0.3.2",
+    "date": "2022-02-02T08:56:32.458Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.3.2.tgz",
+    "unpackedBytes": 50844,
+    "fileCount": 41,
+    "integrity": "sha512-exGIIQ2zzDJN0tp4NnyfFDqaGdiLCIcoUi34Hb9kLv+nI8G4TsmyypsdYyXUGzP/a/OMsM2MvePRiLshNf2f8g==",
+    "shasum": "01284344ed0c8422a34bd0f227b0c8ba9b6a7920"
+  },
+  {
+    "name": "hono",
+    "version": "0.3.3",
+    "date": "2022-02-02T23:47:59.963Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.3.3.tgz",
+    "unpackedBytes": 52592,
+    "fileCount": 41,
+    "integrity": "sha512-ZGBgHmadnQUbOX100sNrp6/DMv7+co7BgREQMZ9I8bXNsvRewG2Xqw9tB5l91UGu1bD571uWbP9L3AEnW8z/cw==",
+    "shasum": "bd2e6934e37017dbbead7d7e20e6c2c6ea486d7c"
+  },
+  {
+    "name": "hono",
+    "version": "0.3.4",
+    "date": "2022-02-03T13:12:33.600Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.3.4.tgz",
+    "unpackedBytes": 51683,
+    "fileCount": 41,
+    "integrity": "sha512-rtxYByCz1ko3P2687nZwrWmABYEK/cuUlqi7hqfmn5mS/e9afc3HnE3GbVywWv0Rn41a5gLz2hhfhbeWkIEXKQ==",
+    "shasum": "a512f92b10699cf92e697dbfabd5744b05ba478c"
+  },
+  {
+    "name": "hono",
+    "version": "0.3.5",
+    "date": "2022-02-03T23:02:51.743Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.3.5.tgz",
+    "unpackedBytes": 52727,
+    "fileCount": 41,
+    "integrity": "sha512-qoHtyMRZ/QL+sPo2Ew+Tzuz0vJgExAqVF7zUf3OEZQ0QKaX3MOIUrmH8bTBQ3PsVMYSkYiNzPg6wl5q9O0x2Qg==",
+    "shasum": "4db8765a5a106965c0ebc5109dbe93657bf71781"
+  },
+  {
+    "name": "hono",
+    "version": "0.3.6",
+    "date": "2022-02-05T14:32:33.675Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.3.6.tgz",
+    "unpackedBytes": 54031,
+    "fileCount": 41,
+    "integrity": "sha512-QVW9IwG5zIfF57yFy40aAOCB8mIUBivn2trcan/k6UJuWKN5KUsMyRhcoW8b8OQf0MrVi8PlxMEAJ0EDsXUJjA==",
+    "shasum": "43ed4d9a53244078c76d57b66c1352ace8227d93"
+  },
+  {
+    "name": "hono",
+    "version": "0.3.7",
+    "date": "2022-02-07T20:55:45.519Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.3.7.tgz",
+    "unpackedBytes": 54079,
+    "fileCount": 41,
+    "integrity": "sha512-hfebTPUYKlZPCfPs9tRSKHBN/8JH7L8Z6PR1sRMCHRB3O7E/nZs4uhvwMbKOPMufKfEGKOUrqHJi1LVGQCaiKA==",
+    "shasum": "5437cc941f1b90f67ca0fc96db246ab1c1b0e672"
+  },
+  {
+    "name": "hono",
+    "version": "0.4.0",
+    "date": "2022-02-16T02:10:08.604Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.4.0.tgz",
+    "unpackedBytes": 55906,
+    "fileCount": 39,
+    "integrity": "sha512-6sWFpKP/4Hnxqw9k2sU/GKobOfTK6c3nyNcTSieiAHE2ys5xgdSO3eR4ahL3ssno5+3ftVIUQ2HdMVIRvqmOzQ==",
+    "shasum": "a7b788459f8761481d0c25903c4e7bdcfe1ff7f8"
+  },
+  {
+    "name": "hono",
+    "version": "0.3.8",
+    "date": "2022-02-14T06:36:06.759Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.3.8.tgz",
+    "unpackedBytes": 54435,
+    "fileCount": 39,
+    "integrity": "sha512-wMq5tRr/YrhD7nBie+jR8VA5jREKhcC8SqjEfr2FVcEjPTEKs1RsObkQgs7Y62gjmnDKVjVxvFeiRb4f32mfjA==",
+    "shasum": "0a50b981f3cc0a7b1120d2cf8b449f64edf88ec4"
+  },
+  {
+    "name": "hono",
+    "version": "0.4.1",
+    "date": "2022-02-20T13:48:45.031Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.4.1.tgz",
+    "unpackedBytes": 66667,
+    "fileCount": 49,
+    "integrity": "sha512-VDjs1lT1UMtFFl6gjnkkZLFwE06HXfDiTuJpx3ARwCGxHy87hs0/RkyhRXVIv3dTNyTvgwmitRe66bNKaTQJ1g==",
+    "shasum": "9af3abe62180a69ed81acbad664a6fdcfb873d09"
+  },
+  {
+    "name": "hono",
+    "version": "0.5.0",
+    "date": "2022-02-25T23:42:03.920Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.5.0.tgz",
+    "unpackedBytes": 69614,
+    "fileCount": 53,
+    "integrity": "sha512-4cFLYj+7pkLksU4Z08K2Nu2otN6FXNCj8vlunbOGU2e+y3DmNb97bttdpgMla9+89PvwsJylMp9OKYAXbPE8gg==",
+    "shasum": "9663dc72a8d4f5b729a00452132079ebf80a2da3"
+  },
+  {
+    "name": "hono",
+    "version": "0.5.3",
+    "date": "2022-03-10T06:46:31.080Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.5.3.tgz",
+    "unpackedBytes": 73233,
+    "fileCount": 59,
+    "integrity": "sha512-nPxy2EuQ+yWmXwRWnOoTVj/wUpImGqP615YXhXxqoZAh0TTjlZ8GGQ0MG9gi4bjdroJhPp+OFAG6SwdlxGF2fQ==",
+    "shasum": "7511451184cee974b46013d1c7b3e1a782635f4c"
+  },
+  {
+    "name": "hono",
+    "version": "0.4.2",
+    "date": "2022-02-23T02:36:16.553Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.4.2.tgz",
+    "unpackedBytes": 68911,
+    "fileCount": 53,
+    "integrity": "sha512-ruMSrfSscQUNp83vsg5xxvMAV1bOKAAjORabqS5SM6sPhPk5aNVhAsDIJRU2+oiDEhhmU64G13j7eWbxgmJhWg==",
+    "shasum": "f396057f704c24346ee7fb05c3c15f374fb6188a"
+  },
+  {
+    "name": "hono",
+    "version": "0.5.2",
+    "date": "2022-03-08T10:18:53.606Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.5.2.tgz",
+    "unpackedBytes": 72632,
+    "fileCount": 59,
+    "integrity": "sha512-FFb4MUnrVnfDeZ4/nitc+q5b8cxo2qvimkMyfP6lvAGdolxa6HvW92UnhFo4tVBgdATfL8i2uhDJWuQMIQ5R0g==",
+    "shasum": "0b7bdfb80ac624ab3eede9d1f5e74ae92350ca9e"
+  },
+  {
+    "name": "hono",
+    "version": "0.5.4",
+    "date": "2022-03-10T22:57:46.429Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.5.4.tgz",
+    "unpackedBytes": 73684,
+    "fileCount": 59,
+    "integrity": "sha512-lAKap7tUiaGFwuZmn2PKNhUurgBp1s9lnffq2XT0AkZ9P7jwzJBrDkTMzwz0d9qxU9C8qh5Khs/BJjWDwxefjQ==",
+    "shasum": "721115248000c0bb34ed3bdbc0aea4554e4378d1"
+  },
+  {
+    "name": "hono",
+    "version": "0.5.1",
+    "date": "2022-03-01T19:08:39.173Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.5.1.tgz",
+    "unpackedBytes": 71842,
+    "fileCount": 59,
+    "integrity": "sha512-Li5CuRumOecZD1/FDMI22/9jNI7knnuiD52HcYrrXQP2CLsprxgNBgNSR8exbO2rm3IU/z8Y4Few2B7T9KGyCg==",
+    "shasum": "de109f8a193a02ef200dc2cb45cf2b476d4b8d96"
+  },
+  {
+    "name": "hono",
+    "version": "0.5.6",
+    "date": "2022-03-27T13:49:14.933Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.5.6.tgz",
+    "unpackedBytes": 82886,
+    "fileCount": 63,
+    "integrity": "sha512-e349W6Hit22LCvTtvx+ZznHN5TeVoOSnjUaw2WpCl8qHpj2l3n7rtm4wNT3MUsSVkPLpwIszEfNGKFYxMdYH7A==",
+    "shasum": "3bf4468aa3d0cd0f556f969a1545c3267ccbb26c"
+  },
+  {
+    "name": "hono",
+    "version": "0.5.5",
+    "date": "2022-03-16T09:43:35.492Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.5.5.tgz",
+    "unpackedBytes": 74547,
+    "fileCount": 59,
+    "integrity": "sha512-Ti0YOYZC8Vs/5awWaohrkQ5EXxgRlWpJhBYun/YDSIlekrC2+6tOtoyeQeU0/+v3X+rHQwdqsOZ/WA3xso8D7Q==",
+    "shasum": "d8a9a042ae207436996490667580a3a556b6991e"
+  },
+  {
+    "name": "hono",
+    "version": "0.5.10",
+    "date": "2022-04-02T06:28:20.284Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.5.10.tgz",
+    "unpackedBytes": 85914,
+    "fileCount": 65,
+    "integrity": "sha512-7w79FIW0/Xh0kJkYnZ8n0T3reKdssZkb8b9SkIsB8lqzmk5RicxDzcTCp25i1uwiv7wyIl0HKldUl/lhT9FKIg==",
+    "shasum": "f04f36322fca4dc46455e955e2b0663eb0e36821"
+  },
+  {
+    "name": "hono",
+    "version": "0.5.7",
+    "date": "2022-03-29T05:51:48.281Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.5.7.tgz",
+    "unpackedBytes": 83126,
+    "fileCount": 63,
+    "integrity": "sha512-z5Y1Rcp94v76n1PcW38ZCTcpGXm2R9yXW6sKA3uX+0bCoJInZosBekUGw9X5kpPM2Ok7NqdU2NFpLfjUd5xU2w==",
+    "shasum": "aa857abe796b807e1bf16002be40b2947f8d6936"
+  },
+  {
+    "name": "hono",
+    "version": "1.0.0",
+    "date": "2022-04-22T00:23:41.852Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.0.0.tgz",
+    "unpackedBytes": 86916,
+    "fileCount": 65,
+    "integrity": "sha512-voNo2e2/JB5uFS5vpzN3shIx6CMXzdty0baenPU2LY75BiqdAWxbewOxnVHdwbHkHelyvOliFD/NlN+tlQ1WOQ==",
+    "shasum": "e978e127f2ef700c0de81036734be77fe4df12f9"
+  },
+  {
+    "name": "hono",
+    "version": "0.5.9",
+    "date": "2022-04-02T05:37:37.617Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.5.9.tgz",
+    "unpackedBytes": 84991,
+    "fileCount": 63,
+    "integrity": "sha512-b+sT32EdnE+lkcLrjlQK331+AcrEiI/6hHWJtTEVBBOgQI82lPFVA4V8NZZo5JbGor9FixK28AraKOv4cHiwXQ==",
+    "shasum": "d2e09dab1bf19db81ed1c9271b309e8e07786895"
+  },
+  {
+    "name": "hono",
+    "version": "0.5.8",
+    "date": "2022-03-30T01:05:36.711Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-0.5.8.tgz",
+    "unpackedBytes": 83955,
+    "fileCount": 63,
+    "integrity": "sha512-0LzyKvfZfcHkw3COdyjGw859wSdDCfkKTCvNdzo2+HgipKz6EvQ0NV2A+qib1wU6z3wA10LPWOllG+Otgzy2Ig==",
+    "shasum": "8a10d39939d66837c2c9be1e3de06fcb4edf7088"
+  },
+  {
+    "name": "hono",
+    "version": "1.1.0",
+    "date": "2022-04-27T07:17:33.418Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.1.0.tgz",
+    "unpackedBytes": 104302,
+    "fileCount": 75,
+    "integrity": "sha512-IFM4lwG9ejntuKyJLQmVE8M7pG3iZc+RSp0okrOWohQJRTjXKvrnzBpE+dNWX/KycibtZ9pPjbP/2EzbmKo5JA==",
+    "shasum": "7615848382480a1862fa2bd113a29a90f3a00f2d"
+  },
+  {
+    "name": "hono",
+    "version": "1.2.0",
+    "date": "2022-05-13T05:44:49.093Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.2.0.tgz",
+    "unpackedBytes": 118094,
+    "fileCount": 75,
+    "integrity": "sha512-YY+VzYtVDrULb5PHYZqN/YRgWmgvbuCnJjJczS7kMczK6Wws5tiHIQPnJYvNlw2XYlJVRO9mbrIj5K0eP5oNcg==",
+    "shasum": "555b49114b9dc147c2798fde067947540a0a6ac8"
+  },
+  {
+    "name": "hono",
+    "version": "1.1.1",
+    "date": "2022-05-01T12:14:15.786Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.1.1.tgz",
+    "unpackedBytes": 104725,
+    "fileCount": 75,
+    "integrity": "sha512-SP8K3xt6pJmDj46INmS7nYCMFgj2hDZUGuwaTJjRqHYvMAsJayShJCVdYs0a9Z6cnG1gRNuwMdz/knohbd1Vtw==",
+    "shasum": "a6f0c493998418c2e4cb14ade6a6866e09bf1a32"
+  },
+  {
+    "name": "hono",
+    "version": "1.3.0",
+    "date": "2022-05-16T13:26:55.955Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.3.0.tgz",
+    "unpackedBytes": 258550,
+    "fileCount": 133,
+    "integrity": "sha512-08/zjrREEjeTp9eJu+HvQa3AmK90mPD3thabcDJQoejiGODlfWNgCWZgvtgTac+fuXoSYTUd/s0yk48X4k03IA==",
+    "shasum": "af33b9f8abd37155688c085bf5d7a0a44ed64945"
+  },
+  {
+    "name": "hono",
+    "version": "1.3.1",
+    "date": "2022-05-16T23:16:22.448Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.3.1.tgz",
+    "unpackedBytes": 117165,
+    "fileCount": 75,
+    "integrity": "sha512-4QfbMyhErtFE2Di0Gm1mvLzILvoWXmisgXpz3plnVUSS7BzwL9CcOoCtLcKbIpC6uM+1ULvNjUPk4iY/K8mEyA==",
+    "shasum": "b7220f922804a9f247a6e79dda35c4e25ed253fa"
+  },
+  {
+    "name": "hono",
+    "version": "1.2.1",
+    "date": "2022-05-14T01:04:46.447Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.2.1.tgz",
+    "unpackedBytes": 118300,
+    "fileCount": 75,
+    "integrity": "sha512-gQaoU6nLGSLutU3M1XZNTbY9Nt8+pd21bGMUWjBIjQwZY6f7sbk6CEdOxhMzQyyN3SDxJsdeU3quSAtoFA2sLQ==",
+    "shasum": "90675169ffcc8a10f51036dbb3aa0c4c9f75990b"
+  },
+  {
+    "name": "hono",
+    "version": "1.2.2",
+    "date": "2022-05-15T07:07:19.972Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.2.2.tgz",
+    "unpackedBytes": 255164,
+    "fileCount": 133,
+    "integrity": "sha512-fNcOaergYEA2kgdFGqBjwvA43wYDZ++lMYahpatUSepzC9XSahYcL1u+hcggFTHe2yWHemByEHqu2i8LGSq6ZQ==",
+    "shasum": "556ab5dccb523ed7ff7d7d21d5eaf342356a62ec"
+  },
+  {
+    "name": "hono",
+    "version": "1.3.2",
+    "date": "2022-05-18T00:19:49.120Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.3.2.tgz",
+    "unpackedBytes": 117323,
+    "fileCount": 75,
+    "integrity": "sha512-Q7HojkIIfgtU2IFP9UzWIsy3qZbB99qpUMj2Cl/+3jvVEPnRsM/s3IybKDupqOwFvRZHjZmmC28X63oYdj5ypg==",
+    "shasum": "fc8e40cb5e775cc4cc2d0bc13ab614da2733a044"
+  },
+  {
+    "name": "hono",
+    "version": "1.3.3",
+    "date": "2022-05-18T00:49:24.932Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.3.3.tgz",
+    "unpackedBytes": 117358,
+    "fileCount": 75,
+    "integrity": "sha512-8APzctLp68O1lL1Xjt5JMI37jzwCBsI8Xz0ehuDovl1IUMTkUyeF+RWfu3ZMB1CAnr3dPCCZo8qDFuuoeU9hrw==",
+    "shasum": "dc6eb8f10fabea99dee6cf82581c81f19a74c423"
+  },
+  {
+    "name": "hono",
+    "version": "1.3.4",
+    "date": "2022-05-19T05:45:50.236Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.3.4.tgz",
+    "unpackedBytes": 117824,
+    "fileCount": 83,
+    "integrity": "sha512-4XYzHtjL3kZwh/RDRd5xcJML8DAmltf3OslaqC7e3YmfKJ3uAR/hackBHAu2i3n7/U+1tq4Trzpw3AN8e6s1IA==",
+    "shasum": "8f2ac0feaad565b74e07df9204fd07d2a3acdd3d"
+  },
+  {
+    "name": "hono",
+    "version": "1.3.5",
+    "date": "2022-05-20T08:46:12.396Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.3.5.tgz",
+    "unpackedBytes": 116414,
+    "fileCount": 83,
+    "integrity": "sha512-YK50Vdl2+VtDHmSJ9osEUqgG2MBQ4EpbaE6vl40Zj+oQ4aLDwGMFy9xnECxeeOY3QvRcqyR7kCM/R4uNyFmVyA==",
+    "shasum": "8257fce086aabe49443a0fc68537aef4bc0786a1"
+  },
+  {
+    "name": "hono",
+    "version": "1.4.0",
+    "date": "2022-05-26T01:25:29.715Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.4.0.tgz",
+    "unpackedBytes": 123695,
+    "fileCount": 83,
+    "integrity": "sha512-Ye2crGWYyjgTBKnWCmsDhxVTQ/yjvuiouu8QF2cT5LcVxDl7YbFHzdmvY7CKnOoOc4auOkzC6dUACNVV3ZwKyg==",
+    "shasum": "faadcd9a42e5bcb26aab56d961d43bf2562e5298"
+  },
+  {
+    "name": "hono",
+    "version": "1.3.6",
+    "date": "2022-05-21T23:07:59.085Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.3.6.tgz",
+    "unpackedBytes": 120468,
+    "fileCount": 83,
+    "integrity": "sha512-HPLy7PhIMhxyskMaKPV03DCTHYDLz/KWhFK5ESlRBuCJmxM77AJEojBjf4APgrh3MYrM72cm40EWDLt28ghQjw==",
+    "shasum": "c540d3b3dbaa08979ab912b65475adc950adf635"
+  },
+  {
+    "name": "hono",
+    "version": "1.4.1",
+    "date": "2022-05-26T08:51:24.549Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.4.1.tgz",
+    "unpackedBytes": 123321,
+    "fileCount": 83,
+    "integrity": "sha512-ZIqGAVONcHDIo3MTBU7DXAHZCYP27iqKEG0xeKzkGjk8rNfAM03xWBEPSxKfGGfy/Cw6ylMPDnCvPdGMN5TpDQ==",
+    "shasum": "a748c180777b4432c92e5988131644b1bc5572a8"
+  },
+  {
+    "name": "hono",
+    "version": "1.4.2",
+    "date": "2022-05-28T04:02:21.227Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.4.2.tgz",
+    "unpackedBytes": 125943,
+    "fileCount": 85,
+    "integrity": "sha512-3Gdb7JPdxPqdJxLhW+IaO+r4PBZDrxO4OEAJUondnNZED98xYl1nnplVdsAYz2ptlMXRuVfqE/6/tdTKBhXAJA==",
+    "shasum": "b368f45d942984c792b9d03804696034b559024c"
+  },
+  {
+    "name": "hono",
+    "version": "1.4.3",
+    "date": "2022-06-02T06:29:41.228Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.4.3.tgz",
+    "unpackedBytes": 123972,
+    "fileCount": 85,
+    "integrity": "sha512-VrBXlAB/t0VKD3FkavyyaHPMwEsU5Y7A7mVTIYfK3iZCqnB+3qyoi+5CaIf0N6uItl48a78py53tK4UIqgUFPg==",
+    "shasum": "2c496e9db876bc52664b3cc479725b1a0034991f"
+  },
+  {
+    "name": "hono",
+    "version": "1.4.4",
+    "date": "2022-06-04T11:13:20.030Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.4.4.tgz",
+    "unpackedBytes": 124169,
+    "fileCount": 85,
+    "integrity": "sha512-cWiE3qxT6okP+pNjtdkyM2+UzI/w+wGvVEzMZbPVKC9QrLQxDm8ip7HkvED+uEw7utRbbPttv71BhWAPYEU+Yw==",
+    "shasum": "ad3f1243bf40fbeca3839ea47d006fc08907031a"
+  },
+  {
+    "name": "hono",
+    "version": "1.4.5",
+    "date": "2022-06-07T01:25:37.069Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.4.5.tgz",
+    "unpackedBytes": 126879,
+    "fileCount": 87,
+    "integrity": "sha512-C2WBj+MbvKXkif38vKK51DCGcOEMlzfOZR+rtjxGLQLE5blPQW1JCY6Y8LEQjCUNgwb3y0De5i6CDdj1i0SWKw==",
+    "shasum": "390836e8504d5fba3db79df65e51950308f4bcba"
+  },
+  {
+    "name": "hono",
+    "version": "1.4.6",
+    "date": "2022-06-10T09:56:25.007Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.4.6.tgz",
+    "unpackedBytes": 131809,
+    "fileCount": 93,
+    "integrity": "sha512-TD3P2SGi77mbILj/evN5ZD/eaS8aqJsRfOBAQsQlUFkM6dbcGJFXKtfpihLPNkDtKOa0/ni/odnYqGL8EUGgIg==",
+    "shasum": "168d3099bc8d3506a5e9983afa1eab34e2c1204f"
+  },
+  {
+    "name": "hono",
+    "version": "1.5.0",
+    "date": "2022-06-17T09:57:18.648Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.5.0.tgz",
+    "unpackedBytes": 132542,
+    "fileCount": 93,
+    "integrity": "sha512-yISDk41FNTRH6ws5pHRg8OOh4gVZ47blpEXwh3fiWiloUnNhMY7+p1QIpIBIp0fSea5FTPPLwai8tYu9Ufwj3w==",
+    "shasum": "831761a4e99f479f468a5b412d9c9e8f3e09c8f2"
+  },
+  {
+    "name": "hono",
+    "version": "1.5.1",
+    "date": "2022-06-19T01:40:01.837Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.5.1.tgz",
+    "unpackedBytes": 133034,
+    "fileCount": 93,
+    "integrity": "sha512-pw2IbQlKgicgVgeo9sJfEo8KwNM9IyDbVQnriyoAvZfNpNbgM4/IACG5ihboKbHVM62A6amyOURxjitvDvIo1g==",
+    "shasum": "b82b30d6decdfda56fae80c7fa7960c482dbb972"
+  },
+  {
+    "name": "hono",
+    "version": "1.4.7",
+    "date": "2022-06-13T02:52:42.430Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.4.7.tgz",
+    "unpackedBytes": 133155,
+    "fileCount": 93,
+    "integrity": "sha512-AX5EctMt7hIVLamd9o2zFZ93JTkZnYa4vIrcU8B15ovhon7EullN4KSRGKekuN7JXm9G+/0TLw8t7Lkgadstmw==",
+    "shasum": "c042be17fbca140a63198ed7070500d676ddc834"
+  },
+  {
+    "name": "hono",
+    "version": "1.5.2",
+    "date": "2022-06-27T05:25:55.172Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.5.2.tgz",
+    "unpackedBytes": 133232,
+    "fileCount": 93,
+    "integrity": "sha512-2ojj095g9jYaTKtl7rVItB07XJsP7nK31EnYTKe4mFwoH/Z87eVfg7c8imC2zkfG/oyiM5BTrsjVzWghwSo8jQ==",
+    "shasum": "7076af33b19a3fd58e5666176e81da2f404f0090"
+  },
+  {
+    "name": "hono",
+    "version": "1.6.2",
+    "date": "2022-07-06T02:01:00.265Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.6.2.tgz",
+    "unpackedBytes": 135397,
+    "fileCount": 118,
+    "integrity": "sha512-4j+rqvP7SRoeM9s4eFpUiq0sLTJ7sE+NR5TcogWa02lDR4FuQ6fg4WkKNL5A0CmkRk3a5NI94owQckyMczSNLA==",
+    "shasum": "5154fb7b2dbe91450680bcd868147559a2d7f720"
+  },
+  {
+    "name": "hono",
+    "version": "1.6.0-0",
+    "date": "2022-07-02T06:54:55.899Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.6.0-0.tgz",
+    "unpackedBytes": 133413,
+    "fileCount": 116,
+    "integrity": "sha512-d7yEZTrhYWVWcHKYg/po2ZDZmCJCNpLDDB4aJb8hQaDTIHmpGc3vpBTBVyiOEBcf4JHPh2WxXScSgF746TMWpg==",
+    "shasum": "d52848d3b54e2a50d5e1866738e7d64431321b3c"
+  },
+  {
+    "name": "hono",
+    "version": "1.6.0",
+    "date": "2022-07-02T09:32:56.165Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.6.0.tgz",
+    "unpackedBytes": 135113,
+    "fileCount": 116,
+    "integrity": "sha512-5NM2v/iaiqyejn93FKmTNBgFxASOVEZ4jGGLRPQDjczs1QpOWx1PD6AoY26AzXbp/b+po6IpVP9DODWyuy8lww==",
+    "shasum": "6d831a4b3a79d46f3e84f85d41586bf01ab0cc31"
+  },
+  {
+    "name": "hono",
+    "version": "1.6.4",
+    "date": "2022-07-10T10:00:33.593Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.6.4.tgz",
+    "unpackedBytes": 135682,
+    "fileCount": 118,
+    "integrity": "sha512-tYrE+P/bR9mnBpYDLo6pohSQr7rO2QY+S896qqn1Eq3HmFkWLYqAkyzfbCyLQh75lUDOLSWFlsS0kRHt0iUMrA==",
+    "shasum": "001cd85a038fa0d6505b47f8c2a892298ee06722"
+  },
+  {
+    "name": "hono",
+    "version": "1.6.1",
+    "date": "2022-07-02T14:26:28.254Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.6.1.tgz",
+    "unpackedBytes": 135384,
+    "fileCount": 118,
+    "integrity": "sha512-W/suzl3Ywko/7wOsciwX5+1saXImppnLnxgW+egGfQ91Rp2OzyIQvHu8V1QtSLyJX53SeGJxJdQF2OPdmpUA+A==",
+    "shasum": "3f62fbfd5c6fa1c1e840e50b058bead8d251e67c"
+  },
+  {
+    "name": "hono",
+    "version": "2.0.0",
+    "date": "2022-07-16T08:59:25.981Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.0.0.tgz",
+    "unpackedBytes": 109240,
+    "fileCount": 107,
+    "integrity": "sha512-Y7VWlWYLv122H/yyQ40Inc6j6Kc3FqUn3pgHVEYON7dUGYpB3mf4CZV6QVRuq1z6V54whcIVRkKfnqLGMVsZlg==",
+    "shasum": "d86f091d91410a6c135776062f326f081a3029cd"
+  },
+  {
+    "name": "hono",
+    "version": "1.6.3",
+    "date": "2022-07-08T01:04:37.068Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-1.6.3.tgz",
+    "unpackedBytes": 135780,
+    "fileCount": 118,
+    "integrity": "sha512-NUuTOn5cBwdFG0Oj9CdlC8Bjnj5XndDUmYAi/kIIDNMOfOu9EVXQl94W6dKKtWU+a6fG06N1onbCG8e692kRRw==",
+    "shasum": "3f222c379280190f262c211e724901c98235ba57"
+  },
+  {
+    "name": "hono",
+    "version": "2.0.1",
+    "date": "2022-07-17T09:42:43.842Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.0.1.tgz",
+    "unpackedBytes": 109763,
+    "fileCount": 107,
+    "integrity": "sha512-kM48HGj5/pbjmBo9yj0iHocTu21CCwvfSUsNz57X2jUgfdreTrjOtAj8jOeRVJqj92Njp6RCs/8nwalnQloU8Q==",
+    "shasum": "e7d3b45c971fd3a14f391f6e2f954bbe0e013752"
+  },
+  {
+    "name": "hono",
+    "version": "2.0.2",
+    "date": "2022-07-18T03:30:33.070Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.0.2.tgz",
+    "unpackedBytes": 109807,
+    "fileCount": 107,
+    "integrity": "sha512-ge85omRQyDfOHe3EAJEG+leRsoFcwUkWeMD5UX5TMmPxd4mRbiu+yBLCUS/Dn9mUF550i0io1OUI9/6Mz2Xqkg==",
+    "shasum": "5bf8b5be27523245364f8438c9a7151ac4b4d945"
+  },
+  {
+    "name": "hono",
+    "version": "2.0.4",
+    "date": "2022-07-24T09:13:16.106Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.0.4.tgz",
+    "unpackedBytes": 113264,
+    "fileCount": 114,
+    "integrity": "sha512-gxlD0eAslabYUx1mdwsXgsNHu87S7RNFfHsswteGGFwyT+0WbTQVhtWHAykzwZdNo6bKZWvLCYOIPA8VHR1Q5g==",
+    "shasum": "57ea651e3ffb8760336029b4da2bcf01a58efac8"
+  },
+  {
+    "name": "hono",
+    "version": "2.0.5",
+    "date": "2022-07-24T11:46:40.456Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.0.5.tgz",
+    "unpackedBytes": 113261,
+    "fileCount": 114,
+    "integrity": "sha512-Vuwj2Qbk94y6NSTzaMo2eYHLyX0OpKmTONKOhUYUK6Lx6L/IRsDJ37aBY+7wi3oli7Sez792cAuZ5vdSt/Qt+g==",
+    "shasum": "a40355f5fddb287f631c3953828b834c2775cb45"
+  },
+  {
+    "name": "hono",
+    "version": "2.0.3",
+    "date": "2022-07-24T08:48:38.471Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.0.3.tgz",
+    "unpackedBytes": 113256,
+    "fileCount": 114,
+    "integrity": "sha512-cr5J1G+RhnFch1JI+Fhtnqrv7Q9wMjzQXEADskSOFbKw5IBpFQscYOPwJUb0nWGrp7Cyu4TpjFK6VF+b6M3hnQ==",
+    "shasum": "65e3f866eb6142b8b834955135d527af8c3b620b"
+  },
+  {
+    "name": "hono",
+    "version": "2.0.8",
+    "date": "2022-08-10T12:51:45.917Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.0.8.tgz",
+    "unpackedBytes": 118438,
+    "fileCount": 114,
+    "integrity": "sha512-3alrHKESJqNJdlFUFcvAexEYe4Iiklu5Yn1qu0Lc4T2ZFSmF4Wl4OZS9b1mf7VIMJy9/gDdYhbg/lUKHkocOvQ==",
+    "shasum": "ed18bc58c91eacf59602046252f4c2249f4c5f1b"
+  },
+  {
+    "name": "hono",
+    "version": "2.0.7",
+    "date": "2022-08-06T21:49:06.678Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.0.7.tgz",
+    "unpackedBytes": 118067,
+    "fileCount": 114,
+    "integrity": "sha512-q66gnQWKSapVolojzX/rdpfz60AuGgxmlwEuT+UXd9SlLNZRgjPUFvDVClrct6fRF5kirt0bfEiRrw89ExZktQ==",
+    "shasum": "3f6fa4ec2f8fdf6a2ef9de3fb258e9ec529d050b"
+  },
+  {
+    "name": "hono",
+    "version": "2.0.9",
+    "date": "2022-08-18T22:33:39.390Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.0.9.tgz",
+    "unpackedBytes": 118457,
+    "fileCount": 114,
+    "integrity": "sha512-Uw/CQVeNBCSjXFgv5N1TDOSypRmDNkS0nFzGV40B94YmNQnkW+xod82ElApTstotR5ps3Kxb2JJ/EkSaWkT81w==",
+    "shasum": "45673c83d82ebfd16dc9c48f403e9e48a3452907"
+  },
+  {
+    "name": "hono",
+    "version": "2.0.6",
+    "date": "2022-07-31T13:23:05.036Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.0.6.tgz",
+    "unpackedBytes": 114139,
+    "fileCount": 114,
+    "integrity": "sha512-HgtiYdmBm4gayQ/IEUNbzQgBlEQdoN57F8A8QmtlqqoCgNvFNZ7J7KKEHiZHm4sviZ0SndBhQMlvkjupW0J3rg==",
+    "shasum": "fa4b17905a6fb187114beef3eebce13f163de99b"
+  },
+  {
+    "name": "hono",
+    "version": "2.1.0",
+    "date": "2022-08-27T06:41:08.289Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.1.0.tgz",
+    "unpackedBytes": 119785,
+    "fileCount": 114,
+    "integrity": "sha512-LhRT4ZQKXUJKu8Rfd0GVIY0TxmNaMUa5X8u61pQ5BkmsXQOPqV3g4/sSla7Lh8GfGwtaa+kiwFqskMvlabFN/A==",
+    "shasum": "1726992a4947d6694940d4cbdc2d2c5084a123b6"
+  },
+  {
+    "name": "hono",
+    "version": "2.1.3",
+    "date": "2022-08-31T09:05:00.049Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.1.3.tgz",
+    "unpackedBytes": 119506,
+    "fileCount": 114,
+    "integrity": "sha512-+GV1f19Vx4E76+8cYGUJit0pxu1oA2lvUE3ctxf4eg3Ov7OlmldZhdnH5EjLNzbgQOcBo8wZV6izRa5lHa4fmg==",
+    "shasum": "51cc616ffadd5ad279ca3129f1328d77fa180c7d"
+  },
+  {
+    "name": "hono",
+    "version": "2.1.4",
+    "date": "2022-09-05T13:00:29.295Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.1.4.tgz",
+    "unpackedBytes": 121896,
+    "fileCount": 114,
+    "integrity": "sha512-x4mNdB7YoMBMHe8rDyXgKcAjK4/lerUY4PBaEYu+XCz1AilxtZAKLDtUer4ptaZ4T6RYreo5ksZuA3bQdOUEug==",
+    "shasum": "fd9d47f1bbf1ead0b346225b6e17adad8a0ac129"
+  },
+  {
+    "name": "hono",
+    "version": "2.1.2",
+    "date": "2022-08-28T09:26:12.647Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.1.2.tgz",
+    "unpackedBytes": 120079,
+    "fileCount": 114,
+    "integrity": "sha512-LO25HJZfo/aE3S4VlyRTJsGya9zhGIQUhzQ2hpUs40Sa080fsZjJ65G0kkAMn/I/aLsSsMF1VN+4+Cm0CvlHSg==",
+    "shasum": "0ab9d87fcc01e3c0b1a906757489f65ddce72186"
+  },
+  {
+    "name": "hono",
+    "version": "2.1.1",
+    "date": "2022-08-27T14:59:14.177Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.1.1.tgz",
+    "unpackedBytes": 120156,
+    "fileCount": 114,
+    "integrity": "sha512-Wg3cGsMl8Kx5Ss1ndJhDK/700yq3fQQH6U8MMrdhzh9MBonbo9RV6K1XUit4N9ns5WFKuj/Pf3AIOJGgbp0w/g==",
+    "shasum": "b510f82b70e37d807dbd447e9cf4f460c78f36e1"
+  },
+  {
+    "name": "hono",
+    "version": "2.2.1",
+    "date": "2022-09-21T14:09:37.222Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.2.1.tgz",
+    "unpackedBytes": 231758,
+    "fileCount": 214,
+    "integrity": "sha512-tlawHM4uOMt41jibUF0fRYxUs3vibKzO1Ihuk/MohpUrkRc4fQo1n9+jLRKIC/8d0lLLW/CPWR/iItcf2HUv3A==",
+    "shasum": "eafdc140cbc896977979820b6215f55c8753dfbd"
+  },
+  {
+    "name": "hono",
+    "version": "2.2.2",
+    "date": "2022-09-27T12:55:12.674Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.2.2.tgz",
+    "unpackedBytes": 233611,
+    "fileCount": 214,
+    "integrity": "sha512-P0djX5Za1RTmuf93JHNcZnERsHIPRp5p30GVAwo1VTWbyWsmLOfprDOiwAi6/vxKm7MgdXta+wDgfeIKMa6+jA==",
+    "shasum": "d4141ef4ebe857db7cce0a1ed9e3f9efeaaadfc6"
+  },
+  {
+    "name": "hono",
+    "version": "2.2.0",
+    "date": "2022-09-21T02:49:08.367Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.2.0.tgz",
+    "unpackedBytes": 232159,
+    "fileCount": 167,
+    "integrity": "sha512-pjJFN7mcPgQA2zpDd/BiT0resFNFqeLkIGNyUJ5aXHAftE8IfI+YiW/Ltfc2JLpfJ1ATuvUNT9UnQai4vAfEyA==",
+    "shasum": "05e51d9448ea1dcf52bc9bf8f3c392bf0da11692"
+  },
+  {
+    "name": "hono",
+    "version": "2.2.3",
+    "date": "2022-09-30T10:54:20.379Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.2.3.tgz",
+    "unpackedBytes": 233617,
+    "fileCount": 214,
+    "integrity": "sha512-Xtokmfyt7Np6S/FIqFAFRuu+7vU7juJF3ApmRjg5cQLsrVEO19icy2Ux/MJ5eV8sDzFgHUmUegI+O/zD4Cam9w==",
+    "shasum": "aac46685808bac639de693b5feacb1776e254853"
+  },
+  {
+    "name": "hono",
+    "version": "2.2.4",
+    "date": "2022-10-03T21:46:58.218Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.2.4.tgz",
+    "unpackedBytes": 242074,
+    "fileCount": 214,
+    "integrity": "sha512-CPiWK+tz7wh1nZ6JS/nJi7SPjLOQC5T+5iz1k8uLibZgBesgIOmSJRe5zFiL1AWT3bCgE4NEetyzJJOrd+4txw==",
+    "shasum": "5b1fca08e099b1a4a509359fb4ffa2d270de837d"
+  },
+  {
+    "name": "hono",
+    "version": "2.3.0",
+    "date": "2022-10-19T11:31:09.022Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.3.0.tgz",
+    "unpackedBytes": 263458,
+    "fileCount": 217,
+    "integrity": "sha512-xNHIyB1a+kN7RCS8YZfrdO1LM10UsRZHBn65tj/MPejZvDrl1TIIewu1kRChrpx36M36TNy2P1c+ZbT8ZRRu/A==",
+    "shasum": "1057d97a8bf9e4eea3ff54cc8a782e30623c570d"
+  },
+  {
+    "name": "hono",
+    "version": "2.2.5",
+    "date": "2022-10-04T00:03:27.501Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.2.5.tgz",
+    "unpackedBytes": 242824,
+    "fileCount": 214,
+    "integrity": "sha512-qIOLwQYJrTGwSSLahXvQ60nJT+NhZqsf+zSvj3eitBPCxpb+bsA2cl4clJzo1WNB+3KdxAdfVmUzq2stzby3eg==",
+    "shasum": "c0258d796d1e48e2b83b76f915a24c14fdf4f289"
+  },
+  {
+    "name": "hono",
+    "version": "2.3.1",
+    "date": "2022-10-20T06:50:52.974Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.3.1.tgz",
+    "unpackedBytes": 264438,
+    "fileCount": 217,
+    "integrity": "sha512-BEzk6Lkb1cuEoEEo/V0j8jHBIJL+s6B2E5Y5v9WX8AXFaxeaRBdLK0U3isMclAUGs5mDpEK5cmXd23LAbwUZIQ==",
+    "shasum": "aa7c364082a9d9e562855b20b9af859e86418c65"
+  },
+  {
+    "name": "hono",
+    "version": "2.3.2",
+    "date": "2022-10-24T15:02:40.907Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.3.2.tgz",
+    "unpackedBytes": 265609,
+    "fileCount": 225,
+    "integrity": "sha512-0OPY9TM6ps02gWWQ9fmBq3+1nX98Zmy8GnEK5S9WZMENK1EV+Ol0jG2mPUHPHevcFvROfUQKzEzrQjMBG3HRPw==",
+    "shasum": "ae471598c0c4f8dfd783bdba5e3cb97fda208a8a"
+  },
+  {
+    "name": "hono",
+    "version": "2.4.1",
+    "date": "2022-11-01T12:44:40.946Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.4.1.tgz",
+    "unpackedBytes": 286215,
+    "fileCount": 230,
+    "integrity": "sha512-cxnfkoMJSyt7Kg17HdbL4/k63Mo80v8DvIXY4qHrQX9ceFiEo73oTH/Ikr8Ii7ym/ur78x9O5/4zQ6as9TRz9A==",
+    "shasum": "ae140ca49f6eea7857dbb1dee14e5d5d5f828079"
+  },
+  {
+    "name": "hono",
+    "version": "2.5.1",
+    "date": "2022-11-13T01:26:22.788Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.5.1.tgz",
+    "unpackedBytes": 286843,
+    "fileCount": 230,
+    "integrity": "sha512-nf2OGta5LUoLdVgtUnXHg0ECw9J0CjFe2e5lFApHh5SqtNLl+gUuujF1fYEcBjP55yEoidcDtYv3og7BNyzXdA==",
+    "shasum": "41c9a7d0749f6cb4a2c21a1b4d0a4db466f645fc"
+  },
+  {
+    "name": "hono",
+    "version": "2.5.3",
+    "date": "2022-11-20T06:51:28.950Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.5.3.tgz",
+    "unpackedBytes": 286665,
+    "fileCount": 230,
+    "integrity": "sha512-EmOtiJ9K72aBAZo130x3Cup4cKP4tpcIk62p7lndF1L8bl1qht2/uTxZKpQ/P8F94e3f00ac6Tpy+p8po2phkg==",
+    "shasum": "743cfed1e4c3bd496f6378a0a4aa45f3f2c8aac9"
+  },
+  {
+    "name": "hono",
+    "version": "2.5.2",
+    "date": "2022-11-17T06:14:36.869Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.5.2.tgz",
+    "unpackedBytes": 287191,
+    "fileCount": 230,
+    "integrity": "sha512-y4u8P4Nb/kFhtKTb7FDxq/m6LFIOBRki4kNGmZ7mrjvA3gIAiODMUuPONc4jIu5KdkNK8YnVMgSWnEexTdjy7A==",
+    "shasum": "9c532fdb10186f05358175b521703fc8d394f518"
+  },
+  {
+    "name": "hono",
+    "version": "2.5.0",
+    "date": "2022-11-07T22:04:16.628Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.5.0.tgz",
+    "unpackedBytes": 287067,
+    "fileCount": 230,
+    "integrity": "sha512-t3ZrlzJ6lqKJE81vspmHBlUQfP4iqTq/o0eHMu8gM59AOUIa8R+so2g/abXhMPAd2AKMbjWN1liYDGCaqG37eg==",
+    "shasum": "56ba7f044d7ade944e45e3f168b43e8a396f548f"
+  },
+  {
+    "name": "hono",
+    "version": "2.4.0",
+    "date": "2022-11-01T08:45:40.152Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.4.0.tgz",
+    "unpackedBytes": 285959,
+    "fileCount": 230,
+    "integrity": "sha512-mwmIb8roTHkTVrdMG4kVBUx8IGUOF6QEhcZouD6Weoxj4Jil/bfoZtA2FHPQVrOujSy09/EM7YwVtk+JOPBKuw==",
+    "shasum": "58393f0d618c5c8f0258193b272899d2aa0d5211"
+  },
+  {
+    "name": "hono",
+    "version": "2.5.4",
+    "date": "2022-11-20T12:39:40.615Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.5.4.tgz",
+    "unpackedBytes": 288457,
+    "fileCount": 230,
+    "integrity": "sha512-Hu7gkWu3x2benHmDfRt3kq8WN6T/LKAIWzGbmayk/l6V4Dk749teBHyeMvi4zIzqCM2bzwhxZjoU6AEp0SF+5A==",
+    "shasum": "8d3e62b6d5b5589c009bfa055eeb81311c28ff44"
+  },
+  {
+    "name": "hono",
+    "version": "2.5.5",
+    "date": "2022-11-23T09:58:42.068Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.5.5.tgz",
+    "unpackedBytes": 288583,
+    "fileCount": 230,
+    "integrity": "sha512-4punTWHtSQwk7I1fUpTiYuF8DuELAIm5v10ou80QpLeeUt3w2e74Pa39LT+PFVgraDQlwI+/vsbM+B2yzfJAlQ==",
+    "shasum": "eba18942c7d4932747436c26db8d537feb4c12e5"
+  },
+  {
+    "name": "hono",
+    "version": "2.5.7",
+    "date": "2022-11-30T15:14:05.287Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.5.7.tgz",
+    "unpackedBytes": 289072,
+    "fileCount": 230,
+    "integrity": "sha512-SbDPoN/to90pnLXZpRWCGgk7arqA79vCxFY0oXU3qS0gwrsek2ex4gXs8oqnP8dsKAlXDN185oYhKkmypYg75Q==",
+    "shasum": "1ad2076668a5b9d0716d05e5b8959f6640bc0f62"
+  },
+  {
+    "name": "hono",
+    "version": "2.5.6",
+    "date": "2022-11-26T07:04:20.963Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.5.6.tgz",
+    "unpackedBytes": 288609,
+    "fileCount": 230,
+    "integrity": "sha512-MI2gCn9STc73Gi510GU/PzXfoFj4HXD/ZZRINeGY7kEtDT4vvAGpIa0+uNYvRMbwYV/E49Nenq4QbVzaZIT9OQ==",
+    "shasum": "8065a727ec7a5f1fe06c452d6a745bc0bf46b014"
+  },
+  {
+    "name": "hono",
+    "version": "2.5.10",
+    "date": "2022-12-08T12:51:11.558Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.5.10.tgz",
+    "unpackedBytes": 291246,
+    "fileCount": 230,
+    "integrity": "sha512-+1/LYLzvgRxCFB+b1mJtjRhP4f6rL+QYN3Br8fvoLlixulAcsmQCmeErGY/mj8fwIZXHT0eZwITgaOzTIQK1TQ==",
+    "shasum": "fd2324cff12158027fe74f828a3fd632c4380217"
+  },
+  {
+    "name": "hono",
+    "version": "2.5.9",
+    "date": "2022-12-07T15:59:25.350Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.5.9.tgz",
+    "unpackedBytes": 289655,
+    "fileCount": 230,
+    "integrity": "sha512-eqIcjr6DGNgtHA3Dve8LTneXOUx/9nOZW3QJE5sw0vLL83BNtf5rqbYaGYdFrhinGeJXcKc6Mf9Rslnq4hcS0g==",
+    "shasum": "7ce2a22d818f9e8a50077054b502c1d07642f905"
+  },
+  {
+    "name": "hono",
+    "version": "2.6.0",
+    "date": "2022-12-10T08:21:17.161Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.6.0.tgz",
+    "unpackedBytes": 290202,
+    "fileCount": 230,
+    "integrity": "sha512-gA+H9d/X7IRZmxuq4jiIMHNFOAKoo8sTNbt+5dUrB1mu5mmxpHgmwHRf4RSBfngS2IoLRX3vBUzBWfB7sIQmDw==",
+    "shasum": "ab5e4392b4f59389cba8c02d7de7f237f83d3c69"
+  },
+  {
+    "name": "hono",
+    "version": "2.6.1",
+    "date": "2022-12-11T02:15:19.864Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.6.1.tgz",
+    "unpackedBytes": 290245,
+    "fileCount": 230,
+    "integrity": "sha512-DsJSOkwV2M7TkuRsp8VJrD02ISMsT7BXGUWjPBJS3n1fIx7NQEhat395lo7024w2ibrbmo+5FivUG0vqij9YYg==",
+    "shasum": "9e85b69cff97586eb53db329c52961e8eade943b"
+  },
+  {
+    "name": "hono",
+    "version": "2.5.8",
+    "date": "2022-12-05T09:33:42.573Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.5.8.tgz",
+    "unpackedBytes": 289085,
+    "fileCount": 230,
+    "integrity": "sha512-OYP+O31QfsEL7U7dXW9+GtuT+7gtfsvkyKAI/w3aujzxq5M1kYVXMEOiKFA9iwkjf2uVsUAIxf9aRhCJ7LTJaw==",
+    "shasum": "5d7115ebc84013c73941e3069ff3dcd8ff23e1b9"
+  },
+  {
+    "name": "hono",
+    "version": "2.6.2",
+    "date": "2022-12-14T13:14:38.183Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.6.2.tgz",
+    "unpackedBytes": 291391,
+    "fileCount": 230,
+    "integrity": "sha512-Y4Uv6dPPx6u7TNoWN245tLw8jycBf97w0FJGJoEMdgdBqQEv1dqIvg5IfDhiYMkimSIt4SXxmMgiyPf2wzwFWQ==",
+    "shasum": "1e32a4b4b3bf557a8aa87e392b00b505a1ec1fdd"
+  },
+  {
+    "name": "hono",
+    "version": "2.7.0",
+    "date": "2022-12-27T14:11:30.400Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.7.0.tgz",
+    "unpackedBytes": 292125,
+    "fileCount": 255,
+    "integrity": "sha512-b7n8IPDVtLBwQLdZwtmBPQL0Z2sOLkf/0kj/C+nD/2U4weUKnElnwsIM+EYsFFva27bAP9qjab2BxMDgSqhLKQ==",
+    "shasum": "eef14b3809cdbe3f666d745286a81b87856cb063"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-0",
+    "date": "2022-12-29T06:09:28.051Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-0.tgz",
+    "unpackedBytes": 253664,
+    "fileCount": 237,
+    "integrity": "sha512-W8UtDdh3LxVI8ndIh1FHovhrSrpjw/yV0Jgh5LizrzSDvSNOYCt0qRZmSuTC+fUk3sMrcgBpJXWErKb6W8AP5A==",
+    "shasum": "e53a80032ce3bd8114768ca44e67091995495b2c"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.2",
+    "date": "2022-12-30T00:12:54.732Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.2.tgz",
+    "unpackedBytes": 253713,
+    "fileCount": 237,
+    "integrity": "sha512-1SXAKik7aNvNFP4697KmYWjga7TFvbg7J5VcRfvi1zELowsCljsSdiPvkDkNJ5c6y6QKRYpvwi21TmeyD5zz8w==",
+    "shasum": "5c63092df64ddb21616a86761d10bdfb9850a780"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.3",
+    "date": "2023-01-01T00:43:23.877Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.3.tgz",
+    "unpackedBytes": 253734,
+    "fileCount": 237,
+    "integrity": "sha512-j5GLwfTb9smHcneQ8hm1I7bwnLGxKHAZYuCOZuq+CGpEg/SrWW0niIiuhLE4FIIFAfeL3vUsjy0BzOWS6Hur0w==",
+    "shasum": "8f4cfc03816114bc3541c1802f0c65e0730327e8"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.4",
+    "date": "2023-01-08T00:08:59.432Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.4.tgz",
+    "unpackedBytes": 260001,
+    "fileCount": 237,
+    "integrity": "sha512-76R3mb8kPeuD9TOmQ1WZi59w4QbpaUOlyX3wC7zQpt7IM7iFVBTxj2fpv++6ROPtd5iUBMCrmH/65ZrNXYYgmg==",
+    "shasum": "7bfe8c89d4b004ff90d587c8ba45279a175fbce7"
+  },
+  {
+    "name": "hono",
+    "version": "2.7.1",
+    "date": "2022-12-30T01:04:20.597Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.7.1.tgz",
+    "unpackedBytes": 292535,
+    "fileCount": 255,
+    "integrity": "sha512-hx2pTusx2hD8IAiQfXXX9iapOuqGTJapqX3hg5a7bC7FQemFEiQfVNK/r5F4GnsdJB7AlsGT4ah9fIYh3vmJnw==",
+    "shasum": "c7c1ef1ccdf242a79da68a7a2b6a0858b1b84a60"
+  },
+  {
+    "name": "hono",
+    "version": "2.7.3",
+    "date": "2023-01-18T00:29:29.617Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.7.3.tgz",
+    "unpackedBytes": 293288,
+    "fileCount": 255,
+    "integrity": "sha512-2FkuQb3N8fzOGavZIl16pMuUGnZVvr/C+H/bk8gVsyNstm+7DpEbTZEvglMYI0Ehgy08AzyNN+sh07940WlZXA==",
+    "shasum": "c73f3abd1fc298782f5a65220e08cfd118f65ce9"
+  },
+  {
+    "name": "hono",
+    "version": "2.7.2",
+    "date": "2023-01-08T15:33:07.800Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.7.2.tgz",
+    "unpackedBytes": 292623,
+    "fileCount": 255,
+    "integrity": "sha512-FruLXaRkdEetZwKvK3XC3Kk6JrjTLJxvjg6StUwErSPF2jKiani+YZSJ3tbqisx/fX/E0nsrR9MIUZ0CxL+pIg==",
+    "shasum": "09796d79a2f220c353efaf4aeb82434062ceb911"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.5",
+    "date": "2023-01-14T11:58:57.184Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.5.tgz",
+    "unpackedBytes": 264779,
+    "fileCount": 240,
+    "integrity": "sha512-0O8oG7jRv1DiAiOnaH80JbTfr0Soo3CEMW0WYV+Um+ZZqaakBUhB+NNcDMq8dE3chU46nDRnPUp/R4Qroc6hQA==",
+    "shasum": "b1c0e8d81605dccf30cf2bda80706597fdcf23d0"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.6",
+    "date": "2023-01-18T12:01:07.754Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.6.tgz",
+    "unpackedBytes": 269489,
+    "fileCount": 267,
+    "integrity": "sha512-sovjliRnTE+DOPS1IC+fZoae/MUtn/nHQiizzzYjK4qrjw5z/sKkKvBDlYGxALI27DySGuzqBOLaj1Kw9gqaNw==",
+    "shasum": "e43e168d61d1dd4142a0683f0b672b2a54ad12ff"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.8",
+    "date": "2023-01-19T14:22:08.032Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.8.tgz",
+    "unpackedBytes": 270797,
+    "fileCount": 270,
+    "integrity": "sha512-kfyRuLQ60gKY/5wn+40iZtPq4o2zAQMg+kuIYXSOwU8aaJUjH2TeU+eABJzLJvYIoehtM4qft02AJq6urWw6Fg==",
+    "shasum": "2f8bb536866ff40ebe418344c8be80108dbd3849"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.7",
+    "date": "2023-01-18T12:16:52.137Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.7.tgz",
+    "unpackedBytes": 269494,
+    "fileCount": 267,
+    "integrity": "sha512-ZiAz4XnIDgRFw8ZRwvxv8EfArEoCOdxkz1rDE2N6TOrYi7mf7DGIbIjgj/T1CwXlbV9VulKU17IqEZg0asqkTQ==",
+    "shasum": "c6a5c44ce7fad1e187f47e1d7828a20fad2b20b2"
+  },
+  {
+    "name": "hono",
+    "version": "2.7.4",
+    "date": "2023-01-22T23:37:52.505Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.7.4.tgz",
+    "unpackedBytes": 294027,
+    "fileCount": 255,
+    "integrity": "sha512-5ThPMoqLgeaxZ3CrN19YRgDuxhmoKfiorqj2uX0Vv36fyINrN+kBZBd1y1bCbknJzmj/gXIFQpMcjeuWQKUY+A==",
+    "shasum": "13c8958ffce3e404bf1cf03ca0e1eaf3dae8f2f3"
+  },
+  {
+    "name": "hono",
+    "version": "2.7.5",
+    "date": "2023-01-23T23:55:39.780Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.7.5.tgz",
+    "unpackedBytes": 294123,
+    "fileCount": 255,
+    "integrity": "sha512-UYrhUT1Xtalh7Xw/YGXee25wlWMiVIRfr0FbAJMEMyRpX9TFZ/6JKmVdCK7ioRnhAw7PfWBasjSBhdNXQ8/okQ==",
+    "shasum": "2b0c39d39a057575962a7025373be4304dedca9c"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.9",
+    "date": "2023-01-31T21:42:49.958Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.9.tgz",
+    "unpackedBytes": 277713,
+    "fileCount": 270,
+    "integrity": "sha512-gW/I51Uay6RhrDhtRN/3WTg7ALT3VRdk0NZBdGpkEOgF+TrzFwmWHDbzHUPa9MffiXSlrkFtMmJVvdKO3Iab8Q==",
+    "shasum": "6077bc67fce850dca99cd58452bda21ff8984da8"
+  },
+  {
+    "name": "hono",
+    "version": "2.7.6",
+    "date": "2023-02-05T22:05:00.278Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.7.6.tgz",
+    "unpackedBytes": 294301,
+    "fileCount": 255,
+    "integrity": "sha512-gXHJOaodyMsWkkbc1LYs+qcPb9GFl3Gkw8tTpQASYmieP1/sFCZf7DILZx8N1Vx/tqUtHtWHPaJxQMWK4nEowg==",
+    "shasum": "9c06f3081bef52c3045869139b09112329163fdb"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.10",
+    "date": "2023-02-01T15:28:37.721Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.10.tgz",
+    "unpackedBytes": 272810,
+    "fileCount": 267,
+    "integrity": "sha512-JrO8wJv6T02lbafCxcfjbusgeUZ+GkBpS1LEv6X0uAmYTELXnH4Fn+nRD4sN4ZTrS6PsedoLDlOlcL7v7hE41w==",
+    "shasum": "d60ec9db495d3b23437f2b1000a529d4128fe16e"
+  },
+  {
+    "name": "hono",
+    "version": "2.7.7",
+    "date": "2023-02-09T09:29:38.321Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.7.7.tgz",
+    "unpackedBytes": 294721,
+    "fileCount": 255,
+    "integrity": "sha512-oPzXxqKlR6S7C2eErGa2EATglVUkcDuSlDVudafEjAik+ERYnLz1M9vkvgLjy3HISF1oXlA1ZFamzA99tkzJSg==",
+    "shasum": "a04ea6142aaf9404482d41b617df1d728655115a"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.11",
+    "date": "2023-02-09T11:04:19.394Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.11.tgz",
+    "unpackedBytes": 277772,
+    "fileCount": 273,
+    "integrity": "sha512-MC0TaLMKuV8yds3wldPMvA8YUOs3rI7FyD0LQlFfkWY4+kKvJpXeAd1rfXN+dy1QqK9lNwd0nSk2FZjJ/MUJ2w==",
+    "shasum": "512054df8a2ebaaccd6f34210226c0066b17b588"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.12",
+    "date": "2023-02-10T20:37:44.356Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.12.tgz",
+    "unpackedBytes": 280389,
+    "fileCount": 276,
+    "integrity": "sha512-XvgvmKtJOBf/pmi86hyQ9ioFEdX22UR6HIZQRiyxcXZvvYYCOHAQptSmCWiNDv00DCX2Kb8OOPsnIAaXW3989Q==",
+    "shasum": "a1c9239d46f713c29843de1dc8259055bddae5c0"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.13",
+    "date": "2023-02-11T07:25:50.507Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.13.tgz",
+    "unpackedBytes": 279468,
+    "fileCount": 276,
+    "integrity": "sha512-lrbcCSRPUdELa60PDKe2GmSACS83BfvyBv8RYE2BFUFaHnXAQnr9lXtE5m/sJqaJ945C4Bzr+WoMGjaWHgs3AA==",
+    "shasum": "74f31e2946db02fd51369680617144d43f05d336"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.14",
+    "date": "2023-02-12T13:45:51.365Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.14.tgz",
+    "unpackedBytes": 280899,
+    "fileCount": 279,
+    "integrity": "sha512-IA7OtthU+5GhRm745R1gyceqsFFD3CvC0svBB+z/G0XCJoGfULAFbTgi44ZifOnztpYdI9/i7ftmRosQM6dDLA==",
+    "shasum": "ed2b0387b100c19c571b2dcae16046453b4d2aee"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.16",
+    "date": "2023-02-17T21:52:26.721Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.16.tgz",
+    "unpackedBytes": 281192,
+    "fileCount": 279,
+    "integrity": "sha512-3FOtmkrxXyE+zpU1X+SMjf18PKab1kUaXxrMZuOZASw7iYupMSD1HPY1WvRrGVU6wtflGUu2FEpN3giobKDS+Q==",
+    "shasum": "5952ee9776a4314022bd97d0752d76d96ed1d06d"
+  },
+  {
+    "name": "hono",
+    "version": "2.7.8",
+    "date": "2023-02-12T21:35:44.466Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-2.7.8.tgz",
+    "unpackedBytes": 294733,
+    "fileCount": 255,
+    "integrity": "sha512-LXLXw6LilE16QO0siFBDiNzmaRP6ca5ZyF0gDWcaiUqJJtE/d4lV/Hpst2O33AmJB5n0DQa5w53gZLUVf7uXNg==",
+    "shasum": "5f6916c7f6838fe1f909f6046b30e6a0900f3128"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0-rc.15",
+    "date": "2023-02-15T13:12:37.775Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0-rc.15.tgz",
+    "unpackedBytes": 281088,
+    "fileCount": 279,
+    "integrity": "sha512-N2TejfNPRcG4lwQjolw0BNFX9mFIEQsnasAvdiaQwD22dmeSiip93zjOv6SSUuK6zC9EnAHz9sRGDfLhfJXSXw==",
+    "shasum": "f624739e5292b1add685d34ec57b260bb507906e"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.0",
+    "date": "2023-02-18T14:09:06.224Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.0.tgz",
+    "unpackedBytes": 281219,
+    "fileCount": 279,
+    "integrity": "sha512-OBWEvcRydCOLdOiazqOmKy8PXciR8uIyUM9HpmXot7UmwNBGOdEJvTrVRIgjV603w+go6cTXBOvFiQClSABT6Q==",
+    "shasum": "f81e49e7540603203b9b576c81b289fa7daf0446"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.1",
+    "date": "2023-02-20T10:53:16.048Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.1.tgz",
+    "unpackedBytes": 283170,
+    "fileCount": 279,
+    "integrity": "sha512-0tTfYlUargW+sW3UOajxNVX879tP5Hy+cxBp010LjjwYsuPvAcDbiUxivdKii6S8uSk2uWRKS1kXqa05Mrwgsg==",
+    "shasum": "0c4b88e1a426ea9479e83d9f745e29defbd0f302"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.2",
+    "date": "2023-02-25T04:41:00.140Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.2.tgz",
+    "unpackedBytes": 282926,
+    "fileCount": 279,
+    "integrity": "sha512-jhb0eCiUTOzbOXZyXQCOk1gf3MKjV4ZXY3PRT6lzma0XPsnnHuDOHYF7RCMHYe7jhl4Y0IAzrmWXneXhOMHypA==",
+    "shasum": "807a1b0514c6563917d8c278e6da7101bdac1d19"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.4",
+    "date": "2023-03-13T00:51:39.048Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.4.tgz",
+    "unpackedBytes": 286650,
+    "fileCount": 279,
+    "integrity": "sha512-vGfcFNZ0nT9LKDflIHxK72+jBBr0IMU8TAGFd4bhISEP7KXEP+bICEwvQyQc2QRXjiunsvFX2U4+GbFMx34MpQ==",
+    "shasum": "7c990d62273b794a3e9c9622868774a5c02f8eae"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.3",
+    "date": "2023-03-02T12:54:05.878Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.3.tgz",
+    "unpackedBytes": 286456,
+    "fileCount": 279,
+    "integrity": "sha512-6Lb/TPH7Me1GAjFR7k/duzTcHS5y+rxFyL6Ky0kYQQlu92l99t53CFMVcdNUpHeStarPOs4Uzl413zIvxaI15A==",
+    "shasum": "26b62bece753941dd3d290d03ff3338f71535017"
+  },
+  {
+    "name": "hono",
+    "version": "3.1.0-rc.1",
+    "date": "2023-03-13T14:22:22.362Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.1.0-rc.1.tgz",
+    "unpackedBytes": 292913,
+    "fileCount": 282,
+    "integrity": "sha512-YeXaD93jeFQ6KAVZe7DirpQ0BScRWRD/HrNW+jNQKK4U/UH801sLJgzzsPQOo8MERsHIXVYPH4LRJm8CwSEWGg==",
+    "shasum": "3f050b871486c2c0d92a1abc48b087f03e6e1d5f"
+  },
+  {
+    "name": "hono",
+    "version": "3.0.5",
+    "date": "2023-03-13T12:57:57.099Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.0.5.tgz",
+    "unpackedBytes": 286730,
+    "fileCount": 279,
+    "integrity": "sha512-X/bNd7buFn+KLJPrdDENhHTZ1RSaemjXZDh9ABbSnY2KV+IzAHpdRT4Q1r6RHfvF5+l6xLp6OEX0j40Cs0GWGQ==",
+    "shasum": "3007b626de2cca2c0d48c0ddf551665fcc670280"
+  },
+  {
+    "name": "hono",
+    "version": "3.1.0-rc.2",
+    "date": "2023-03-13T23:45:46.244Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.1.0-rc.2.tgz",
+    "unpackedBytes": 294111,
+    "fileCount": 282,
+    "integrity": "sha512-QbN8iuH8JMYmbFAah8EmR70iT31iYYQ6B+laeELGuhCZFGBCde3uKFeE9+2J2tLx3UbUAeeoPcg08fga5rOzbQ==",
+    "shasum": "f7d60c485b21a417177a96e917da4314d5dd903c"
+  },
+  {
+    "name": "hono",
+    "version": "3.1.1",
+    "date": "2023-03-19T09:23:15.520Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.1.1.tgz",
+    "unpackedBytes": 299353,
+    "fileCount": 291,
+    "integrity": "sha512-RZqCFL9qyCGB/YY7lHeaiCICFeoVOf0A8FhOoC/av7fhdj72JH53LC2QudDUKWjrV56+i3YcoPG/1epYNDgbNA==",
+    "shasum": "e0a6465f3ac656798d221aea2e1c298e03d23095"
+  },
+  {
+    "name": "hono",
+    "version": "3.1.0",
+    "date": "2023-03-17T07:50:35.889Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.1.0.tgz",
+    "unpackedBytes": 300318,
+    "fileCount": 291,
+    "integrity": "sha512-5hVyzp3mrAjxRwy6Uj7su0pIISGTKVX2tE4YiYO81V3w1KoYZEmz3g6X6P9nRLQmaABDWXmnL9GqEzBhTAPeog==",
+    "shasum": "4b29bcaddc489015b99d0a89b68133ccf72b2cf1"
+  },
+  {
+    "name": "hono",
+    "version": "3.1.2",
+    "date": "2023-03-20T14:36:09.474Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.1.2.tgz",
+    "unpackedBytes": 300198,
+    "fileCount": 291,
+    "integrity": "sha512-keNMGSlBX2VbwD5gF10Xu0zuUm9mTy1HWctIhuom8FJEJY6aKo1Bb/vQXTEjBupKDG7MJi2aG05YMo01GjkMQA==",
+    "shasum": "896231b8940c201212bb3d440bebce637e68be26"
+  },
+  {
+    "name": "hono",
+    "version": "3.1.3",
+    "date": "2023-03-26T13:40:37.897Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.1.3.tgz",
+    "unpackedBytes": 300238,
+    "fileCount": 291,
+    "integrity": "sha512-HgE9OTMORkK3MgKAIca+w1pbIryTMWz5wr1AFhXzzws6z5mYEnlZ6yvOwAD40hBtmYSyVhH9t1qE5qxV1UQb8Q==",
+    "shasum": "4a7a82f9ad60f7ec5ff6bbfe972d30b83994c6fd"
+  },
+  {
+    "name": "hono",
+    "version": "3.1.6",
+    "date": "2023-04-16T23:53:40.338Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.1.6.tgz",
+    "unpackedBytes": 301452,
+    "fileCount": 291,
+    "integrity": "sha512-ugC7YbuyATZChp+SxfstiavvTCqENjvSiTiDAkbAOP20pJ58N4kXcbDi93SwZrvMFA2VVx1veMYHrsvUY9hcVA==",
+    "shasum": "7a7ca700fff69553a8c2a7a97d544f49bb8b1bd3"
+  },
+  {
+    "name": "hono",
+    "version": "3.1.5",
+    "date": "2023-03-31T09:42:30.039Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.1.5.tgz",
+    "unpackedBytes": 301441,
+    "fileCount": 291,
+    "integrity": "sha512-ypFLhNYoXXtep4I9zJt3VpB5/Ze3p9BLU4dpnAp7fxHOmSg8lu/Wwjs5sTJnb2GwVdfjbt9KFB9alA4Zt/P0jw==",
+    "shasum": "a1c5314bb1cf0fd8b72bd2b6b6698eee16fbc520"
+  },
+  {
+    "name": "hono",
+    "version": "3.1.4",
+    "date": "2023-03-30T12:40:00.544Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.1.4.tgz",
+    "unpackedBytes": 300730,
+    "fileCount": 291,
+    "integrity": "sha512-uboRdKRHF+LtNrprlrgX+PPeSGiXHHML4VzUTVLSyFYnctfB2E93TgbAQskMNjrOufG1fI8zXRx3we93SnYITw==",
+    "shasum": "0c14cf58f20b2a547c98d12f36e35ecf54ab957f"
+  },
+  {
+    "name": "hono",
+    "version": "3.1.7",
+    "date": "2023-04-28T03:15:37.437Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.1.7.tgz",
+    "unpackedBytes": 301454,
+    "fileCount": 291,
+    "integrity": "sha512-AJto2QdBUutbJ4bVU3Vdf3IoWmtyiSoypRHfEJtTnG0WkGKhS7XVWwcwjQwbtNxoXd/iXu6mkJw0sYpVvySIAQ==",
+    "shasum": "054d12df66a4f30dec3b6d97eb674f211947b7b7"
+  },
+  {
+    "name": "hono",
+    "version": "3.1.8",
+    "date": "2023-05-02T07:29:49.236Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.1.8.tgz",
+    "unpackedBytes": 300162,
+    "fileCount": 291,
+    "integrity": "sha512-7UZQWuQaqn8MENla09Jdb28qiR5uXii4xR/TNQuVNxZ3+T+ZixWiQUpJG85BXNqhJ5s1SkPbLGjbc3L5wKsv5g==",
+    "shasum": "daced5760040a4f3b0cf64373b5621e19760bffa"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.0-rc.1",
+    "date": "2023-05-09T13:26:56.706Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.0-rc.1.tgz",
+    "unpackedBytes": 330338,
+    "fileCount": 336,
+    "integrity": "sha512-KX8vSWXpuOO5V3xOJTrKyVERIkjsCg6eyufmZALCR6EE+M9WoQSfqLHKfXd1kB1aPVEnMqz9cg/x2ANj3Cj7ow==",
+    "shasum": "d481b2e4f42b5b13bfac878ee23ab790dcb3bcdf"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.0-rc.2",
+    "date": "2023-05-12T08:17:55.716Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.0-rc.2.tgz",
+    "unpackedBytes": 331925,
+    "fileCount": 336,
+    "integrity": "sha512-f8KvQpUZpYrgSknxSwVE1Vb8/GSCc+o9uFzUJn8SwBanA5iEfhXSG5VjC9TMjNGM4pnDS8hS6KHXTnIMzS69Fg==",
+    "shasum": "ab71cecdbf081de49b444a63447bdfcdef95b51c"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.0-rc.3",
+    "date": "2023-05-14T11:58:53.158Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.0-rc.3.tgz",
+    "unpackedBytes": 332164,
+    "fileCount": 336,
+    "integrity": "sha512-83kQ9o5EGvqI/An7UURZz1gwMEvAIFjnhQs+iMcbpKD+9NGlJAcbMFFRJV9hEs0cmBIuf7pMGp2co3Rm+2Rxdg==",
+    "shasum": "221d88bc4306f0191c94b585c304b48d1ffce3c6"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.0",
+    "date": "2023-05-19T05:44:19.980Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.0.tgz",
+    "unpackedBytes": 334980,
+    "fileCount": 336,
+    "integrity": "sha512-dsPameDZC+VYainhDxUnuYRFUytpLBN9CF1QjrtPx7AtlOaNLMKc5pKsZF1dnPmGal/QaM9YDAEnzZLUJ1ugsA==",
+    "shasum": "96f782db6b99a1a4c0d9393f2ecee5e5eb3aa3bb"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.0-rc.4",
+    "date": "2023-05-17T09:37:13.934Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.0-rc.4.tgz",
+    "unpackedBytes": 332098,
+    "fileCount": 336,
+    "integrity": "sha512-7C6LDY9p3TLR0z/EuHD7mdaNAFGEDz9KMART13WMFO5sXBkttWv/0XCs/Re8vt2993hAC2bggq8tmhV1AQvyeQ==",
+    "shasum": "683e93abc4a96d6622074fa1a0f65bbeb08afaa6"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.2",
+    "date": "2023-05-24T09:06:39.217Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.2.tgz",
+    "unpackedBytes": 335837,
+    "fileCount": 336,
+    "integrity": "sha512-yVkYyefATYGz6j7iDcugtEvg4AgpccE1tDYnmvTmXDR4NQrUJ3/SdHU9V7UuWQjGtfrBujeBUAq70oc82ADsvA==",
+    "shasum": "7758bac7ac7c9649040a45a0e781b961f14481f9"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.1",
+    "date": "2023-05-20T06:31:38.924Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.1.tgz",
+    "unpackedBytes": 335100,
+    "fileCount": 336,
+    "integrity": "sha512-yWpBvr5E5u2JPsVfgBOBlfqbpTCkTE5nZWB0WrA5QJYTQCf39WjhkZ4iFLP/tv4hgWBtXC+aWGyCHt11H10ghg==",
+    "shasum": "1a2c60811efba96f3f08aab9746104ca2c3d988f"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.3",
+    "date": "2023-05-27T23:46:57.890Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.3.tgz",
+    "unpackedBytes": 336001,
+    "fileCount": 336,
+    "integrity": "sha512-Qm8Kbu+cUPVk2mbe5w224Z7HEyJQs6j0VAxUqEtqYDw6gGaHUcYOqJJ/G++AMlxhVkS5YzV1voiR5PZwhYkXuQ==",
+    "shasum": "419b328c26aa868d517e3ace00b01e5f6084e094"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.5",
+    "date": "2023-06-07T12:59:54.760Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.5.tgz",
+    "unpackedBytes": 337348,
+    "fileCount": 336,
+    "integrity": "sha512-saAKnPNGXO3vLq198IJO6ZwunQyXOYj6FkAZS08pBNKXn34lF9b7vb/pdyTrQWv3WvUPFjGCQfDyUjMhcubAMw==",
+    "shasum": "c1c865e6306300b0ea11b1f2b4423efabb3c9fa1"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.4",
+    "date": "2023-06-04T00:24:22.996Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.4.tgz",
+    "unpackedBytes": 336447,
+    "fileCount": 336,
+    "integrity": "sha512-FAYaLxCuUO1C3YkTf4ve8wEYXXo28hGop8KD9/otYa7aeODz5kZ780apYL33OJPeMIERJzkuf59A+wNt1eA4yw==",
+    "shasum": "b67b5a3770bf2570b30aa2b501e5eb4023225ed0"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.6",
+    "date": "2023-06-22T13:41:06.211Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.6.tgz",
+    "unpackedBytes": 337402,
+    "fileCount": 336,
+    "integrity": "sha512-jUf9SgkTW/H3Pd9oPwFgf3j05RXUbILWm96WlHll56t2Jkv8tVXyfLeBzYwdTzB7JE/hx+DWMXrVJ06UdfcKng==",
+    "shasum": "b4927ed20b2edf165277f3e2b787a4e4948223f6"
+  },
+  {
+    "name": "hono",
+    "version": "3.2.7",
+    "date": "2023-06-29T11:14:06.011Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.2.7.tgz",
+    "unpackedBytes": 339069,
+    "fileCount": 336,
+    "integrity": "sha512-7YCF9t4oMF3L3ghvcmlEBx2hoC9VyBBLuVrPZiOkU7PtFBrnQtkFEnYCRcPKCJiMoXHX3bDhU9R3HQbw+WnQJg==",
+    "shasum": "8a5ba1a0d6d0cbe8df7bc134c7d10c3dbe1f901b"
+  },
+  {
+    "name": "hono",
+    "version": "3.3.0",
+    "date": "2023-07-11T01:10:42.530Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.3.0.tgz",
+    "unpackedBytes": 356324,
+    "fileCount": 351,
+    "integrity": "sha512-H15s0aRWebhry9d1yevYO2LqBbrJZTPZwui9S39mv6rZE9LdJWoYn2tWCa6etL3mlu5JHm0e3xVMcQiu2TfjJg==",
+    "shasum": "64ea5f85fd4e3e833036dd1a594627e65e7c0ab5"
+  },
+  {
+    "name": "hono",
+    "version": "3.3.0-rc.1",
+    "date": "2023-07-08T09:31:46.576Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.3.0-rc.1.tgz",
+    "unpackedBytes": 355836,
+    "fileCount": 351,
+    "integrity": "sha512-BjStS2NqxLgvYfkDsOHyxRNWVcSlQLRTJfKTDL7NEOHLe/Y8aG4j2gAHxocXjhusGZj/sCJ8ExTA0jBtQTKzNA==",
+    "shasum": "b3eb750459ea6e1409e914cb1eaf996db9c7585a"
+  },
+  {
+    "name": "hono",
+    "version": "3.3.1",
+    "date": "2023-07-16T06:37:37.194Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.3.1.tgz",
+    "unpackedBytes": 356522,
+    "fileCount": 351,
+    "integrity": "sha512-MlpVOp+oDvWjfLZjZNBF5p2d+X6kmpHdHT1BjY7J4Zn3XOscK01lt4so0Gsm9F7pZFImJG7eAMgOKZ8VSzUPDA==",
+    "shasum": "05617491106ceca4cc1c3590cbf1ffe4f8b197db"
+  },
+  {
+    "name": "hono",
+    "version": "3.3.3",
+    "date": "2023-07-23T07:20:36.091Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.3.3.tgz",
+    "unpackedBytes": 356815,
+    "fileCount": 351,
+    "integrity": "sha512-k/KQw4GVvyJJT/qgbpLCeRSe7JT4USWkQkzXDNsRMbpWrrncT2Dj2rQQObDxnYZOYziZickgXvJHy+wuxsaunA==",
+    "shasum": "9d7ebfa162cedf59107d8059043d9f1eb6bb3f15"
+  },
+  {
+    "name": "hono",
+    "version": "3.4.0",
+    "date": "2023-08-08T00:16:25.388Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.4.0.tgz",
+    "unpackedBytes": 368140,
+    "fileCount": 360,
+    "integrity": "sha512-aADLlpex2w5kMJpDaBAhqGZpgxNdiXP4tVNBadNwTCYkzO1NWbk/Hx8hZezrZ0D/l0QmupW8JLkDj4Y33ViChA==",
+    "shasum": "da49eac440dc58317f5fb61af498dca016fc997c"
+  },
+  {
+    "name": "hono",
+    "version": "3.3.4",
+    "date": "2023-07-27T03:16:32.280Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.3.4.tgz",
+    "unpackedBytes": 358376,
+    "fileCount": 351,
+    "integrity": "sha512-lqvcsQrXS0bSydj/MkOXi3opAwrlauIjZefhXMMRj9prABfBWdrYHSrWk/xfxgxNPs4yuEMh2Z5zV0L2b1Jmdw==",
+    "shasum": "063655dd73e0f46a64682d65181f255551f4e6f1"
+  },
+  {
+    "name": "hono",
+    "version": "3.3.2",
+    "date": "2023-07-20T08:53:00.394Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.3.2.tgz",
+    "unpackedBytes": 356707,
+    "fileCount": 351,
+    "integrity": "sha512-7rsgLAUXTdxo2qU/+uso5oZiiNruB9++1TMxcy95c+pTK822L0ORuug5aPVr6JkYgLkkL3w4i1Y9zrcLZJBp8A==",
+    "shasum": "2d5ee13ba03668862ad7ceaca5ccbf1a003d5533"
+  },
+  {
+    "name": "hono",
+    "version": "3.4.2",
+    "date": "2023-08-14T14:35:56.571Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.4.2.tgz",
+    "unpackedBytes": 371331,
+    "fileCount": 363,
+    "integrity": "sha512-HvJta4dszWVaUOHhQKfdha2dWgVnrznxglqIh8X0mypJ2Jkb3wVd9OAMhsgeak67+SVfUbr0EQyI3woO4U5OlQ==",
+    "shasum": "584f493f67ad46ea6fa24355a79e888502991977"
+  },
+  {
+    "name": "hono",
+    "version": "3.4.1",
+    "date": "2023-08-08T02:28:26.785Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.4.1.tgz",
+    "unpackedBytes": 368192,
+    "fileCount": 360,
+    "integrity": "sha512-fA7/cfgNg060mt12cYykdstwqM/bRvqYmQlPpEjoKIwMs6QF1rPJzZjppCrFuZZJvKE1vEP6kEAaaDH96XRg7Q==",
+    "shasum": "1ec84b8d67b0c26a7c9cfe3e1337c6a19a15988b"
+  },
+  {
+    "name": "hono",
+    "version": "3.4.3",
+    "date": "2023-08-14T15:36:17.328Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.4.3.tgz",
+    "unpackedBytes": 371334,
+    "fileCount": 363,
+    "integrity": "sha512-HbVxZh9yC3hV25+mFjUaM65t7g8ia2mXbhAGmVHA0r8+guizTJq1Cg4f2SmB5+JrviG0vaqOnWJ9U3O05aikbA==",
+    "shasum": "ab1db8777fa80341daf389979b7888da0786e3db"
+  },
+  {
+    "name": "hono",
+    "version": "3.5.0-rc.1",
+    "date": "2023-08-21T08:09:13.937Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.5.0-rc.1.tgz",
+    "unpackedBytes": 382190,
+    "fileCount": 378,
+    "integrity": "sha512-hyuJre6tKxJiOBaLWFyn3uqfk2Bw4NwlhtwPLkExlI/yhLgl3oOQQRDHZAVR9hStuSrZ6haqxk4Lfo/sfEZ62g==",
+    "shasum": "1afa3a787d9005dadcd7c4d70360b2571b286f00"
+  },
+  {
+    "name": "hono",
+    "version": "3.5.1",
+    "date": "2023-08-23T00:19:06.862Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.5.1.tgz",
+    "unpackedBytes": 382280,
+    "fileCount": 378,
+    "integrity": "sha512-L31KJg1Qu1ZHYKlpHYymqyDPR9U5SOy+X6c6+HQxBOGMGrJFawd5BvfcP+0rrGcw1bN5xk61+k3oKW4jFWyUkw==",
+    "shasum": "eea7ba4b071507146e73efc29037e4da4cc96a81"
+  },
+  {
+    "name": "hono",
+    "version": "3.5.0",
+    "date": "2023-08-21T09:42:39.088Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.5.0.tgz",
+    "unpackedBytes": 382184,
+    "fileCount": 378,
+    "integrity": "sha512-0eJT6F+TRovENdANDubzri3c1oVEjbTgrQvXrcUKjFV6ZElNWNSrrHZIQE5CPwRTddsUdPjkgguuLYw90npC+w==",
+    "shasum": "8bba91b7d1a4f26db22cd1b013032b8a38f97bab"
+  },
+  {
+    "name": "hono",
+    "version": "3.5.2",
+    "date": "2023-08-24T06:42:08.838Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.5.2.tgz",
+    "unpackedBytes": 382097,
+    "fileCount": 378,
+    "integrity": "sha512-HezADUIepgTpn+LSHNU2vZd4V2wcFDkObycShxhR37eXwQXgjev9FHsxBpDkvPqGQLn3YAPiC3GNVZVUsbcwFg==",
+    "shasum": "83776c4f076c40f59850105af835a6a5609b7d07"
+  },
+  {
+    "name": "hono",
+    "version": "3.5.3",
+    "date": "2023-08-24T07:34:24.583Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.5.3.tgz",
+    "unpackedBytes": 382107,
+    "fileCount": 378,
+    "integrity": "sha512-QzsW/gtFaFSn2DHNML6KVeIPUQM8pShWRaFA1j1Fo7FY/FsPGpjKnRYPCo9GzuPX2M9XEgtOUfbUo70ZKxt+ZA==",
+    "shasum": "8450585b9191387165e9b9ed1d957543ec5fa753"
+  },
+  {
+    "name": "hono",
+    "version": "3.5.5",
+    "date": "2023-08-28T14:08:30.564Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.5.5.tgz",
+    "unpackedBytes": 383185,
+    "fileCount": 378,
+    "integrity": "sha512-XDRLCLNWOWTtDhM86dTHSbhqgY4fbTscG2BiWwMcZ87yz8TneAXKMfQi22LPa7t7x8Eo459wMcibHd1aZtJkAA==",
+    "shasum": "8846c4a689a9c17d3c3fb4dbfddda00fec59326b"
+  },
+  {
+    "name": "hono",
+    "version": "3.5.4",
+    "date": "2023-08-24T07:59:19.238Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.5.4.tgz",
+    "unpackedBytes": 382098,
+    "fileCount": 378,
+    "integrity": "sha512-GrRBIJhZ+tG+8RtoyPQjvqPGwppERmayyTiPKano4egmpkJf1XiptESUYK5vKHICNaJksAKB9jzy1CmOdQENPA==",
+    "shasum": "66057d4c1ee127faafa087168af6d569ab25f5e7"
+  },
+  {
+    "name": "hono",
+    "version": "3.5.6",
+    "date": "2023-08-29T14:11:19.961Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.5.6.tgz",
+    "unpackedBytes": 383263,
+    "fileCount": 378,
+    "integrity": "sha512-ycTOpIZJ6yLbjzoE+ojsesC7G7ZXfGSoCIDyvqmzlHc5Mk4Aj48Ed9R5g7gw3v7rOkS81pjcYIvWef/karq1iA==",
+    "shasum": "fe37e2fee682dc8badbde78568f365bae5c362c9"
+  },
+  {
+    "name": "hono",
+    "version": "3.5.7",
+    "date": "2023-09-03T05:55:22.070Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.5.7.tgz",
+    "unpackedBytes": 390280,
+    "fileCount": 378,
+    "integrity": "sha512-FKbkgLYpO9tQKkX5dzsmsUKDlat03LSjOjHfP7emsonKpj4bbr4ewWp7wiF8PnH4QUIM8r7XL+Zhrofe//zO6Q==",
+    "shasum": "5cd89ffb9b60a39974b20afe7ebd74ccfdba13ea"
+  },
+  {
+    "name": "hono",
+    "version": "3.5.8",
+    "date": "2023-09-05T09:22:59.389Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.5.8.tgz",
+    "unpackedBytes": 390379,
+    "fileCount": 378,
+    "integrity": "sha512-ZipTmGfHm43q5QOEBGog2wyejyNUcicjPt0BLDQ8yz9xij/y9RYXRpR1YPxMpQqeyNM7isvpsIAe9Ems51Wq0Q==",
+    "shasum": "9bbc412f5a54183cf2a81a36a9b9ea56da10f785"
+  },
+  {
+    "name": "hono",
+    "version": "3.6.0",
+    "date": "2023-09-10T23:40:15.512Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.6.0.tgz",
+    "unpackedBytes": 398339,
+    "fileCount": 384,
+    "integrity": "sha512-snkW8naO1WCrQvpAGE/du30Ek0h71gSM3g4RzzdPIB2LQnl12BEwZYH3s2Kssd6kXGORqHmpoyMBMLWtc9nzKQ==",
+    "shasum": "3b18e44d45d4a63e41fcafe89ec8764effa192ff"
+  },
+  {
+    "name": "hono",
+    "version": "3.6.0-rc.2",
+    "date": "2023-09-09T08:15:50.785Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.6.0-rc.2.tgz",
+    "unpackedBytes": 396547,
+    "fileCount": 378,
+    "integrity": "sha512-vQd7vKRkNZFNExNsqF81q8q1fMkcY12vgceNdCTj5hmyme90E2sTYPpZRieYloXtGnrT26FfVm7fJA8J89FJ+Q==",
+    "shasum": "47dd14400bf8a57abbbe5e7ee67e28fc58eb3f32"
+  },
+  {
+    "name": "hono",
+    "version": "3.6.0-rc.1",
+    "date": "2023-09-05T13:13:06.679Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.6.0-rc.1.tgz",
+    "unpackedBytes": 392753,
+    "fileCount": 378,
+    "integrity": "sha512-2/YcLuxmKgzTzDIcCq/DvaeVHrgD08i3eZbM7TviqPAIFNiWnZYYVmuVB+hmwiUqMRBBfLcT4g5bCrQ0TQviuw==",
+    "shasum": "266e6b358d8cfc957ba208a252fbd13fe46e1479"
+  },
+  {
+    "name": "hono",
+    "version": "3.6.2",
+    "date": "2023-09-16T12:23:07.442Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.6.2.tgz",
+    "unpackedBytes": 398715,
+    "fileCount": 384,
+    "integrity": "sha512-Ki1reTgvxfpxhkkLddFyc4f3acrd1ikgVo00auhLBozeGDpT78b7GLhOlbE/EDo871p6SSBfROJapaTzGPaYCQ==",
+    "shasum": "1a79bd291402dcc72977a16920dca8d7953dcd6f"
+  },
+  {
+    "name": "hono",
+    "version": "3.6.1",
+    "date": "2023-09-15T09:45:06.822Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.6.1.tgz",
+    "unpackedBytes": 398658,
+    "fileCount": 384,
+    "integrity": "sha512-FaWXh0MSc2Hv2IrGI4vFvZEK69NHfggEgHUlNMXp2zrpKh23j7wS0Ku316Do9CFAl07OBNozBelcvruiBT8crQ==",
+    "shasum": "512aea5b9d6899f22526f002afe4688238d2123b"
+  },
+  {
+    "name": "hono",
+    "version": "3.6.3",
+    "date": "2023-09-16T14:13:25.884Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.6.3.tgz",
+    "unpackedBytes": 399384,
+    "fileCount": 384,
+    "integrity": "sha512-8WszeHGzUm45qJy2JcCXkEFXMsAysciGGQs+fbpdUYPO2bRMbjJznZE3LX8tCXBqR4f/3e6225B3YOX6pQZWvA==",
+    "shasum": "0dab94a9e49dadc0f99bf8b8ffc70b223f53ab9f"
+  },
+  {
+    "name": "hono",
+    "version": "3.7.0-rc.1",
+    "date": "2023-09-17T00:11:44.453Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.7.0-rc.1.tgz",
+    "unpackedBytes": 408051,
+    "fileCount": 393,
+    "integrity": "sha512-rT06zVVtQrDE9YZ+1I4OEXBSxOermjxTfBR5y+YLvhOd3aq4wFgYV77segbqmdRJaiVJTu+zo+rDSTs0/Xb/Uw==",
+    "shasum": "44abdcaa8de70d8970ca96ea08c2d307545c67e5"
+  },
+  {
+    "name": "hono",
+    "version": "3.7.0-rc.2",
+    "date": "2023-09-20T15:35:42.654Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.7.0-rc.2.tgz",
+    "unpackedBytes": 408613,
+    "fileCount": 393,
+    "integrity": "sha512-rYjefZkDpemGi9cTnjNh/7sbZulk98YMYx3k+yCPXGJRmjQW+eRCS5A35KXhcElEw8q076yap79ZRR6lTNQBWw==",
+    "shasum": "bcc3104564aac3853ac1949037e4f6acd8531580"
+  },
+  {
+    "name": "hono",
+    "version": "3.7.0",
+    "date": "2023-09-21T02:49:20.713Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.7.0.tgz",
+    "unpackedBytes": 408624,
+    "fileCount": 393,
+    "integrity": "sha512-tqhUslEbdAyWCU1a2jeoytwdmS971eIoB3IklTZRVQz+SjSyOQixrkp5CVw7chYwanYE3UMEyr/uAR2HOuMdhw==",
+    "shasum": "6e42592069fd24aced4fa7072013771a324bc9f5"
+  },
+  {
+    "name": "hono",
+    "version": "3.7.1",
+    "date": "2023-09-21T22:28:51.678Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.7.1.tgz",
+    "unpackedBytes": 408774,
+    "fileCount": 393,
+    "integrity": "sha512-S6XiX1wr2mj6zo1HNkmAJ3vVkHTsMMQuAN9W3gDj7vKCf3Kc8/zfdrUHJKkzIz9fknibznfgPWDOKkt5Ae+3EQ==",
+    "shasum": "5a872b7207ce816de6125de9405bd7fd8b5ed1f2"
+  },
+  {
+    "name": "hono",
+    "version": "3.7.2",
+    "date": "2023-09-23T14:47:42.562Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.7.2.tgz",
+    "unpackedBytes": 407055,
+    "fileCount": 393,
+    "integrity": "sha512-5SWYrAQJlfjHggcDTnmKZd5zlUEXmoUiBjnmL6C1W8MX39/bUw6ZIvfEJZgpo7d7Z/vCJ5FRfkjIQPRH5yV/dQ==",
+    "shasum": "c3839d7ffbb5120850b2b926363d065020f4d18c"
+  },
+  {
+    "name": "hono",
+    "version": "3.7.4",
+    "date": "2023-10-04T21:10:56.125Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.7.4.tgz",
+    "unpackedBytes": 408710,
+    "fileCount": 396,
+    "integrity": "sha512-Ep7SQMgw5Tf49fKBami4q940pvZW1E/524IU6Qt2tdFsjeWpXbKBTsJbj2zOsdcQ3sJxhJ+gGsXoLiichLE8mw==",
+    "shasum": "d209e39ba3da14c46f7a2473b82c897cbf3f96f1"
+  },
+  {
+    "name": "hono",
+    "version": "3.8.0-rc.1",
+    "date": "2023-10-05T09:13:01.312Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.8.0-rc.1.tgz",
+    "unpackedBytes": 418316,
+    "fileCount": 408,
+    "integrity": "sha512-VX0guLgV15WKLgPEtfpV/AeioHmXAJLxiQrBDquMNBJgipkvmA/VsG6NSLLz6sB/4xVRrDKyB+V0CRW+CGHFHg==",
+    "shasum": "b920fb5c4165e6175b9770cf7a8e0e3e3e7cf390"
+  },
+  {
+    "name": "hono",
+    "version": "3.7.5",
+    "date": "2023-10-05T20:16:10.571Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.7.5.tgz",
+    "unpackedBytes": 409046,
+    "fileCount": 396,
+    "integrity": "sha512-ZaaqAul84HHLXZKwwfH+eMInidwvRj9IdyOoI5Ze0v+WUOAAtQruml3QaUUWkOuI2Myt6IZAiUqkYklLK77k4g==",
+    "shasum": "906ecebec61040f1ce8d4567f5dce694548a0956"
+  },
+  {
+    "name": "hono",
+    "version": "3.7.3",
+    "date": "2023-09-30T13:04:48.219Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.7.3.tgz",
+    "unpackedBytes": 409155,
+    "fileCount": 396,
+    "integrity": "sha512-BQHdLPXb30hQ9k+04byeSi4QMHk20U1GUq0nT5kGUCGZtxeYhAS7mUJ1wgjn4SCvgiw1rcc6oBOAlwJQ7jQymA==",
+    "shasum": "01fd88360e9a431235110197fbb5a998131e104e"
+  },
+  {
+    "name": "hono",
+    "version": "3.7.6",
+    "date": "2023-10-12T09:13:43.604Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.7.6.tgz",
+    "unpackedBytes": 412102,
+    "fileCount": 402,
+    "integrity": "sha512-nuLNH9+nV6ojXK6b9I0RGZgdMuLTOXeQPs6xsIw/G5iyT8j8m7Nnx8pTxQprmSmCaEYIPv91rCcq45PQNfW68A==",
+    "shasum": "91ef6667add22c1ae36f85be857af330474f0391"
+  },
+  {
+    "name": "hono",
+    "version": "3.8.0-rc.2",
+    "date": "2023-10-05T23:43:41.564Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.8.0-rc.2.tgz",
+    "unpackedBytes": 418652,
+    "fileCount": 408,
+    "integrity": "sha512-rz+7nNa3pEPcjNeOHMcm/39R9NJ4rRh+xDvw3kI0f1uLz5mX/j5KH7WvdaWaolxpFHlbcm8lnzAWi83dD7fFLA==",
+    "shasum": "d3c4d73dcd077cfb8cd2766951ff62acfc1250c8"
+  },
+  {
+    "name": "hono",
+    "version": "3.8.0-rc.3",
+    "date": "2023-10-16T00:11:59.688Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.8.0-rc.3.tgz",
+    "unpackedBytes": 422601,
+    "fileCount": 414,
+    "integrity": "sha512-OAtgvrv2DDh/2Hh3bCgtQ0goJ8bah9AeQ/RJTcdQ3OlLjUEfwa+1MhdiOc1JnRYAOGE7OQiSPDOU9IJNLOpAfg==",
+    "shasum": "ea12809d8429d16343a77a7a84eaf1b1263dc112"
+  },
+  {
+    "name": "hono",
+    "version": "3.8.0",
+    "date": "2023-10-17T00:45:55.229Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.8.0.tgz",
+    "unpackedBytes": 420964,
+    "fileCount": 414,
+    "integrity": "sha512-lTkcFzm9abmsYiaX82r707kG7Qo9y/nSuO75VWaI6xRK46yxylMUG10Njy6SS5CcLRAg+0mw8NvPaMPbgV17Gg==",
+    "shasum": "967456f66b88269e857eca7eef5ae8ae32d04656"
+  },
+  {
+    "name": "hono",
+    "version": "3.8.1",
+    "date": "2023-10-18T03:36:35.207Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.8.1.tgz",
+    "unpackedBytes": 420974,
+    "fileCount": 414,
+    "integrity": "sha512-im5K3bEyb6iMQP5Tfei5vfoHLnIKrsAqT/GNJJ4lxS75MvNaecUbPX0Xgi0ibTIos31lA5oYevMDGNNXhHJ9wA==",
+    "shasum": "a138c62233c80b7ede446885d8dda0858f4b5058"
+  },
+  {
+    "name": "hono",
+    "version": "3.8.2",
+    "date": "2023-10-21T15:37:08.455Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.8.2.tgz",
+    "unpackedBytes": 420962,
+    "fileCount": 414,
+    "integrity": "sha512-4NCjNbew1RRUySO5atcEw2bWIJd2+W5B0gCks4DAFJGbjoFuexxWox8PQuQkZwvqLEVoEk085P9Y/O+YrX1MCQ==",
+    "shasum": "a1e536a4880503f5c3041527aa82af6d65962c2f"
+  },
+  {
+    "name": "hono",
+    "version": "3.8.3",
+    "date": "2023-10-22T14:40:54.994Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.8.3.tgz",
+    "unpackedBytes": 420982,
+    "fileCount": 414,
+    "integrity": "sha512-NLJgUCKKMvijBy+V+U1FQTsNwHk2bD1KGlWJA9+qaCNWgx5St9bhfQwxrpcTGvG2Gi2naemTWCzBavDNXOqO6Q==",
+    "shasum": "68bc5ed9908c0ae9b303aa64b4b1cd70ebb3f3fe"
+  },
+  {
+    "name": "hono",
+    "version": "3.8.4",
+    "date": "2023-10-26T21:18:37.450Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.8.4.tgz",
+    "unpackedBytes": 422928,
+    "fileCount": 414,
+    "integrity": "sha512-phh1Nl1QrdSqXqnxBH5mRRVcor+2qDXjBiQ55xOGNT69Zqb65FBc07FOZKvcmYA0Iji1NLWhgtpfNHr033UvqQ==",
+    "shasum": "7b79a4904cec65abd5c1e7e788b32c12f4e7e89f"
+  },
+  {
+    "name": "hono",
+    "version": "3.9.0",
+    "date": "2023-10-27T07:40:43.946Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.9.0.tgz",
+    "unpackedBytes": 445999,
+    "fileCount": 417,
+    "integrity": "sha512-MSGmerYD69jwDkBa631lY7y3xtEwbKFg2huFZ0TruzCdfJlmPd/rFzyvmMheePKsiA7CZp/KqL3mflBOzEmjLA==",
+    "shasum": "615c602115663186ae912c48c5b02d448002df89"
+  },
+  {
+    "name": "hono",
+    "version": "3.9.0-rc.1",
+    "date": "2023-10-26T21:27:05.841Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.9.0-rc.1.tgz",
+    "unpackedBytes": 445422,
+    "fileCount": 417,
+    "integrity": "sha512-0of/eHc5ZPFgQz+VxWZoqsM02m4x+HZnsLAQx1IRyjd1v+VdEBKaj23llqOoin5cW1tbWrjxggMzTwBipOpXXQ==",
+    "shasum": "2c0c4f954a6c17959ec67e84f800bc48e2b3567c"
+  },
+  {
+    "name": "hono",
+    "version": "3.9.1",
+    "date": "2023-10-31T09:38:11.804Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.9.1.tgz",
+    "unpackedBytes": 446117,
+    "fileCount": 417,
+    "integrity": "sha512-z3nM9CjNZ8PRAH6NNntk4ESKW2POEbGanhK1QpYdQ1MOYRzZPSEE8B5mqw8bYEPa7qIQxX0vtlv7XOxtwFbosg==",
+    "shasum": "7a630aad35b8709e10e6117468116d38404ab87e"
+  },
+  {
+    "name": "hono",
+    "version": "3.9.2",
+    "date": "2023-11-03T22:00:27.611Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.9.2.tgz",
+    "unpackedBytes": 446225,
+    "fileCount": 417,
+    "integrity": "sha512-180NOiMadqU3lGmN6ajPDZvZPWus3a9mtVaAUR9uG0SImngBwRLA8vbnV0oUfUAgFT4nX55sGV9dVA06OuikHA==",
+    "shasum": "db31a6ce733131ee16bce0c9bd031a0708ebe052"
+  },
+  {
+    "name": "hono",
+    "version": "3.10.0-rc.2",
+    "date": "2023-11-08T12:33:29.577Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.10.0-rc.2.tgz",
+    "unpackedBytes": 459156,
+    "fileCount": 422,
+    "integrity": "sha512-IqYY1J+UrpAOcg+gvS4O86KmF9fDiEzY7Ld+ap2N8YwvyuYLruoTCl2TPH3L0FfUPPoYAQVLjcJ9SvbfCrTB5Q==",
+    "shasum": "dcb250ce1d626d9858195de6187cad70e3eb51d1"
+  },
+  {
+    "name": "hono",
+    "version": "3.10.0",
+    "date": "2023-11-13T05:30:20.200Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.10.0.tgz",
+    "unpackedBytes": 461854,
+    "fileCount": 422,
+    "integrity": "sha512-rN8PNMt66U58Qj3+L8gr7EsaYnj56cBDS2MjhUnMgDaXoyw44/OeFDsmXXzn/YQ7CAWeENC3Dq/kp+4RJSNE3Q==",
+    "shasum": "e44cb6df0b69f82e0783fcc6d2ab47043f0cf988"
+  },
+  {
+    "name": "hono",
+    "version": "3.10.0-rc.1",
+    "date": "2023-11-06T22:23:39.908Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.10.0-rc.1.tgz",
+    "unpackedBytes": 457859,
+    "fileCount": 422,
+    "integrity": "sha512-yd8lttFjEZKy7u+g1leqVpHCIvxMrWW2H9VdhcIztMcrDeai4ygzNQij4LL88CHzzmRgymW79r5wQkObhJVGtQ==",
+    "shasum": "c6d8e72c7099d00fbf46cc233b07a3fc503dff10"
+  },
+  {
+    "name": "hono",
+    "version": "3.10.1",
+    "date": "2023-11-15T13:43:46.633Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.10.1.tgz",
+    "unpackedBytes": 460331,
+    "fileCount": 422,
+    "integrity": "sha512-4jPKCmYWLAoCMpmvOU+xNOQYdcNftip7sM/IsO8EPyGAtjk9fGNyUchG6huSzLrY449WDNGFPetVs5doepNnlA==",
+    "shasum": "9f8d144aa93e0f9bcd97f0cb5a685da103b06334"
+  },
+  {
+    "name": "hono",
+    "version": "3.10.2",
+    "date": "2023-11-21T08:21:09.578Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.10.2.tgz",
+    "unpackedBytes": 460307,
+    "fileCount": 422,
+    "integrity": "sha512-QwJLjWs3e+nZ3b5nQrrdJpYCJqiTK744jeYhX7yhZdxwcQ3KIohBfzI2dA8gSF6HEZkmFUdiKL1BelJ8utIm4w==",
+    "shasum": "fdbd9e0ed47ca9e078740a69e5177259cbe4dd37"
+  },
+  {
+    "name": "hono",
+    "version": "3.10.3",
+    "date": "2023-11-28T08:58:06.401Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.10.3.tgz",
+    "unpackedBytes": 460727,
+    "fileCount": 422,
+    "integrity": "sha512-44YzAp+rydwGWqW+VRivuOWpGWug8zCSy1Gd6gBLAlclIVlPjZAYXfSNqlhSIvd6ZyseM4aP9SDDNmwXceIy+A==",
+    "shasum": "2eb2e9085ab9f56ce554ea08980f7fbc1eb93bfe"
+  },
+  {
+    "name": "hono",
+    "version": "3.10.5",
+    "date": "2023-12-03T20:01:37.913Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.10.5.tgz",
+    "unpackedBytes": 460592,
+    "fileCount": 422,
+    "integrity": "sha512-qNKibuEs+xzFVcKD9HHzAs2nUXQniQgXU6q9FRIwd7TFpkI9dGtkSHddWxdNoxX/7MGd7unaIisVOGMqiER4pw==",
+    "shasum": "0fcae3154022af3f1adfe01ead39be635d6879ea"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.0",
+    "date": "2023-12-04T08:41:13.181Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.0.tgz",
+    "unpackedBytes": 518969,
+    "fileCount": 431,
+    "integrity": "sha512-B9E29kt1Zw1m6uA9oGjK8T0NPVBsqG+rKZakb+LwnUvVD0EfHW6UimenSGDh85RlgVk23GDMhikMc9c9pD8HDA==",
+    "shasum": "9d7b2c8af8b51f7ba907289e3b1ba8c6a025e594"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.1",
+    "date": "2023-12-04T13:17:35.944Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.1.tgz",
+    "unpackedBytes": 518943,
+    "fileCount": 431,
+    "integrity": "sha512-8FNUh8p/dkw8qYFxy8IJA500iW9NSeuvuwRfLw0FGkE/blCxtqWqxWTB+NaLSK3qGpaudzKur6s40Q0kpO0E+w==",
+    "shasum": "2f5893ae02baf55e1c5ad1e5b3a75936e3942c88"
+  },
+  {
+    "name": "hono",
+    "version": "3.10.4",
+    "date": "2023-12-01T20:19:30.129Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.10.4.tgz",
+    "unpackedBytes": 460631,
+    "fileCount": 422,
+    "integrity": "sha512-2LJd+a3qyvSuyFlyJSRN1CeH5wg6/Rjua/5L5gdT1W+4U7EUZtnHph74klbyysGg69sfZNXsIrR7PJWSjf2Vww==",
+    "shasum": "b34fe995ebbd35d24dfab6306cbd2e64e7a7f9e2"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.3",
+    "date": "2023-12-07T00:36:44.484Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.3.tgz",
+    "unpackedBytes": 518866,
+    "fileCount": 431,
+    "integrity": "sha512-MWYBcIS4dZJo9e/852Zwl+gqBiUSRknMOZ/MbW7kW8JiWixTJ58pzXVIeBq7jnvFq3AZ9uQ35QyVpzV05sdNFw==",
+    "shasum": "e6f8bcc4827c40c0db128d44665492db96caccc8"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.4",
+    "date": "2023-12-09T08:07:14.850Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.4.tgz",
+    "unpackedBytes": 518867,
+    "fileCount": 431,
+    "integrity": "sha512-lU8Et1Nkpa4RqgBvjGUGyu8/2QNdAOR9EqFzNCoP7wM+xtcq2v/DHi9CMJ/ixVxRU9Q2uAh0G3xIKTVYzzC4dg==",
+    "shasum": "0822333ee4e8b411fe937c46863cabad3479ae7e"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.2",
+    "date": "2023-12-05T09:52:36.715Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.2.tgz",
+    "unpackedBytes": 519031,
+    "fileCount": 431,
+    "integrity": "sha512-UysqMvSVFBPoUvN8veT7w+lgVjbRYafZNsVQqrs1Ssrx8oByPBq9jwWaCLnjkGbfTydfDxILnPEf5/kbu8Wl/A==",
+    "shasum": "dd3995a5108a49b3d6d3b46778708fd99df7fb8a"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.5",
+    "date": "2023-12-13T00:05:15.318Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.5.tgz",
+    "unpackedBytes": 518763,
+    "fileCount": 431,
+    "integrity": "sha512-6PBpy83kxi41ByBBSOrJ57XUWIFF2NHmQFdKMjm+y+lkERMhPqSEQMBRYIrJb7y1me2Ou10luE5cbS8OmygLQA==",
+    "shasum": "c3d881745d8305eb8af218c348b7dfdf5f6026cd"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.6",
+    "date": "2023-12-13T07:23:37.056Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.6.tgz",
+    "unpackedBytes": 518705,
+    "fileCount": 431,
+    "integrity": "sha512-PwI2NRvDIq4uCQOoF/zRJ81KK10YnnkcTYYuKCHZXD2S4/JhM4grxR1RHkEPgigPlFkCUJEs5HXfluDX++VIaw==",
+    "shasum": "75e4ae9f2441162f32eca80d5eb084db6bbd547b"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.7",
+    "date": "2023-12-14T01:24:16.512Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.7.tgz",
+    "unpackedBytes": 517121,
+    "fileCount": 431,
+    "integrity": "sha512-TcfAq7IdipF+9coxnuzYlSSBXbm9mTyWjjagLCv/2ampboNcKJdi+XCK5G48mHQtpI5+9Rj3J4FfcGgw9vzIww==",
+    "shasum": "e44f8aa3a18f19775304328bde6f559f7a02447f"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.8",
+    "date": "2023-12-16T22:39:14.004Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.8.tgz",
+    "unpackedBytes": 518528,
+    "fileCount": 431,
+    "integrity": "sha512-s+7FDN0CS0lAvooyj4oQw0PyEec7I+YuVg40gtFHuUrfHBEhKITrLu4dskTdeYn0Xvhbz7s4yRJebJx6gCN/5Q==",
+    "shasum": "063bef4c34a710bd39472f9d43b4d05c75f4b05a"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.9",
+    "date": "2023-12-21T13:51:22.224Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.9.tgz",
+    "unpackedBytes": 518506,
+    "fileCount": 431,
+    "integrity": "sha512-vjwVHw/y9xXPf7a87XjAPE9d3NFLyDiDBHmTU5SsGiJoe4BSiU/Yiu5UB9orhP+YGkSwD7fzXmuG7lpvKnr15w==",
+    "shasum": "0495490442e51dac764c9064c1dfe5a6f444aeaf"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.10",
+    "date": "2023-12-24T07:57:11.723Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.10.tgz",
+    "unpackedBytes": 518589,
+    "fileCount": 431,
+    "integrity": "sha512-vizPp5PfVq5dwgN+EM+8v7RHlvrrEbnpkHtM2GMsl6KICA/MvWcnEMJ5L8SjYPxueB8VJMwc6nzzgKj5Vovp7g==",
+    "shasum": "3b774c5d77f72af33affa98ad4910902bc327358"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.11",
+    "date": "2023-12-26T21:44:31.237Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.11.tgz",
+    "unpackedBytes": 518564,
+    "fileCount": 428,
+    "integrity": "sha512-E3Xv7LnOjg7VXiu+t+YplDEYXvkxpcTCzZ3RUFQlcNXclSME8aiQAYwWpJPT6MQRRpa4TG5RlOolqeYEDEK3wg==",
+    "shasum": "3675c8f6db33df5a37fc4a5ab4fb26fd1a6eddbc"
+  },
+  {
+    "name": "hono",
+    "version": "3.11.12",
+    "date": "2024-01-01T09:27:53.952Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.11.12.tgz",
+    "unpackedBytes": 519807,
+    "fileCount": 428,
+    "integrity": "sha512-TrxH75bc0m2UbvrhaXkoo32A9OhkJtvICAYgYWtxqLDOxBjRqSikyp4K7HTbnWkPeg9Z+2Q3nv0dN4o8kL6yLg==",
+    "shasum": "8236c08c0fbf811ae46d1b2cf452b0f4788a062b"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.0",
+    "date": "2024-01-04T15:31:15.150Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.0.tgz",
+    "unpackedBytes": 552640,
+    "fileCount": 449,
+    "integrity": "sha512-UPEtZuLY7Wo7g0mqKWSOjLFdT8t7wJ60IYEcxKl3AQNU4u+R2QqU2fJMPmSu24C+/ag20Z8mOTQOErZzK4DMvA==",
+    "shasum": "889214938af36ac265a99864f4a0104c4942f3fa"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.1",
+    "date": "2024-01-09T14:04:22.725Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.1.tgz",
+    "unpackedBytes": 552380,
+    "fileCount": 449,
+    "integrity": "sha512-wCvww2YZ04whKJVXHDwtnx0x5Jzj0xtVUkguyj1zRDQ4qW1yKWcUTNCOa/H/wMHrHtXJmymlpIZIGUm3MwXlHA==",
+    "shasum": "fa459d406a2dd426bcbccdef74c603bb0043a822"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.3",
+    "date": "2024-01-12T08:31:43.622Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.3.tgz",
+    "unpackedBytes": 556021,
+    "fileCount": 452,
+    "integrity": "sha512-eymmA0t4YzoBlaZhfcJiR6wC9tIdIgx68fdHYCpbKf0RMYXux+uJjwuZSAa2pKPNXZd6K6oGgizqaiLDvQ5jzg==",
+    "shasum": "ac670ad55819311a78a24527aa8b21f512c05f5e"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.0-rc.0",
+    "date": "2024-01-10T00:46:21.224Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.0-rc.0.tgz",
+    "unpackedBytes": 570046,
+    "fileCount": 453,
+    "integrity": "sha512-qd34GO2GchsIIfEcJ8YqafBl8qxoLTenQzEJR85zwhsf4Z9Am8USpsSTAtb4DSO6z8WmMpDyk7uXXS22IV35bw==",
+    "shasum": "a3f02b172c384b2ee91c0d5554a272b6e8cc89f7"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.2",
+    "date": "2024-01-11T07:16:37.882Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.2.tgz",
+    "unpackedBytes": 555545,
+    "fileCount": 452,
+    "integrity": "sha512-h8MlaLiWEeiqMtpQBBhWor4UTu/8bYWuv0yc7DaCRsG3Ny2rXdkXzrYrgc+FWXoyh06CL2QDB/HbjJ9XJLjEhw==",
+    "shasum": "b92c4852636f0b9b217f106c7d3fcf9f3fbc9ad5"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.4",
+    "date": "2024-01-15T07:10:50.561Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.4.tgz",
+    "unpackedBytes": 556023,
+    "fileCount": 452,
+    "integrity": "sha512-tEkoBCmhMoQdnBJ3hNUZm9UVA6XkSm6YaPxN8xMaKvz062KhYnd52s/GbmxFywO0vsb+T+wjaJ0708NY7Tr1VA==",
+    "shasum": "23b5b2a59fd078811026e5b3a1d06b111286bef4"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.6",
+    "date": "2024-01-18T23:09:37.920Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.6.tgz",
+    "unpackedBytes": 561737,
+    "fileCount": 452,
+    "integrity": "sha512-nnLMJbBA8k+tW8XD1Xt0BfNmJswppYF2pSOVo5U3DdU72SPYUjFkPg7/Q9KfkNcsrXzxFdJQ00JYjPGancmOOA==",
+    "shasum": "fab46de366e309544e7cf05d9fc5609217a3b0c4"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.0-rc.1",
+    "date": "2024-01-18T04:55:06.789Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.0-rc.1.tgz",
+    "unpackedBytes": 615271,
+    "fileCount": 491,
+    "integrity": "sha512-uvrEVsJuaJ6sfMZcny1LzjK0facjioUC1STLkfjMG8yF/MOX/vuMK9aDrboU4FNyckGwzVjlj4eZH28Wj1FMHQ==",
+    "shasum": "8669248b23a382120070128eeb6b437a24af281d"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.5",
+    "date": "2024-01-16T05:08:50.180Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.5.tgz",
+    "unpackedBytes": 556453,
+    "fileCount": 452,
+    "integrity": "sha512-oIuZfMGwk/IUIAOW+9/VZhT4g99Wce39GYBs2nhY7386iYFAprI8vF2/+nfXjzlrY+CXGJ0+GxF833nN0oRp2w==",
+    "shasum": "a7aa2742bf4ceda12bd5caa5d317fa1d156d7ecd"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.7",
+    "date": "2024-01-25T01:44:54.761Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.7.tgz",
+    "unpackedBytes": 563301,
+    "fileCount": 452,
+    "integrity": "sha512-jfyIoE8D5I1PGj0tXAGqpQ2miAWBBuHFjJsWjh0hbBVludQ8QO4lF6KTbPvjMi4venp8Q6DyMoJ51CwP6L5LNA==",
+    "shasum": "76be7d8a2f43ef29bba47e663b1adfba264a3281"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.0-rc.3",
+    "date": "2024-01-27T20:32:09.538Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.0-rc.3.tgz",
+    "unpackedBytes": 664996,
+    "fileCount": 506,
+    "integrity": "sha512-OB1y+hzWHfM/mdolCacXFechiuAyJawAHgz81HgfC7xUV9GEBnmWTRd1nPu4APyTNL3fKrKQekSzUIXQyay1qQ==",
+    "shasum": "203cb97ca06bda745231ebb599a441b3fe34c800"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.0-rc.2",
+    "date": "2024-01-21T20:51:27.408Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.0-rc.2.tgz",
+    "unpackedBytes": 641959,
+    "fileCount": 500,
+    "integrity": "sha512-c7PeKKtwidjkgurjyjKQpCr+oRuL9TXP1JzxqKxof2f4UT/CjEXKQkreawTzMjpalujrSCYcTOm3SBkkW0NxpQ==",
+    "shasum": "5a80f1c58e3422c223a52e58de10d761c265966d"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.8",
+    "date": "2024-01-27T13:47:24.100Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.8.tgz",
+    "unpackedBytes": 563255,
+    "fileCount": 452,
+    "integrity": "sha512-vnOEIRdqsp4uHE/dkOBr9EYmTsR86sD/FyG2xhfAQzR9udDRglN1nuO7SGc/7U3HfSorc6PSCNGN6upnVtCmfg==",
+    "shasum": "7c137aa6ac7bcd2aec3f55b9596d71e97081963a"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.9",
+    "date": "2024-01-31T14:47:30.499Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.9.tgz",
+    "unpackedBytes": 565868,
+    "fileCount": 452,
+    "integrity": "sha512-JhurtI3+VspowZoP3dv6BylhUPIpTWNRlBsVfb5UbI/tmMGqd6RpeexGO7RjnrSG9Vqwb1ydKp7HHTTcYJU5Zw==",
+    "shasum": "140ce14c9ba1a101914faa9e89479515af4a97aa"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.11",
+    "date": "2024-02-05T12:50:29.913Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.11.tgz",
+    "unpackedBytes": 565851,
+    "fileCount": 452,
+    "integrity": "sha512-LSpxVgIMR3UzyFiXZaPvqBUGqyOKG0LMZqgMn2RXz9f+YAdkHSfFQQX0dtU72fPm5GnEMh5AYXs0ek5NYgMOmA==",
+    "shasum": "bffc4a54acaca6f04170f796ddf8b7f9981afcc1"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.0-rc.4",
+    "date": "2024-02-03T23:58:46.465Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.0-rc.4.tgz",
+    "unpackedBytes": 676185,
+    "fileCount": 509,
+    "integrity": "sha512-v66lcctPzahRBhzyJKFNgwdq6smjRpgQWwHzLY4lEZDBHPr/lKRMvOOrDkBNyy2y1gYKA175BE4X8VU/0wImTw==",
+    "shasum": "edd545e5cf699fac225eaf4589cdb29f516618b2"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.10",
+    "date": "2024-02-02T13:22:48.841Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.10.tgz",
+    "unpackedBytes": 565879,
+    "fileCount": 452,
+    "integrity": "sha512-cPfwx4Khp+sUUjwH770UHVXmKN5CsCj/G15oUXZIpKMO2EdyTovSef9ptXSlvR6hz0yZSWorypIfwO6n2K0gFQ==",
+    "shasum": "52bf0fba5e0ac58fb5745c1883a44b778f10acb8"
+  },
+  {
+    "name": "hono",
+    "version": "3.12.12",
+    "date": "2024-02-07T17:19:00.365Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-3.12.12.tgz",
+    "unpackedBytes": 566043,
+    "fileCount": 452,
+    "integrity": "sha512-5IAMJOXfpA5nT+K0MNjClchzz0IhBHs2Szl7WFAhrFOsbtQsYmNynFyJRg/a3IPsmCfxcrf8txUGiNShXpK5Rg==",
+    "shasum": "1b725feb2604d1b2d50c3a8c11594cca1db462f8"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.1",
+    "date": "2024-02-11T02:59:10.961Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.1.tgz",
+    "unpackedBytes": 690444,
+    "fileCount": 518,
+    "integrity": "sha512-S9cREGPJIAK437RhroOf1PGlJPIlt5itl69OmQ6onPLo5pdCbSHGL8v4uAKxrdHjcTyuoyvKPqWm5jv0dGkdFA==",
+    "shasum": "a7bc40c323ebb1f7c4084a326406ccb689806a68"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.2",
+    "date": "2024-02-14T09:05:31.589Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.2.tgz",
+    "unpackedBytes": 693313,
+    "fileCount": 521,
+    "integrity": "sha512-ZW/13BsQmQHlFb3IYGuzgbzY0wBO6WTvOHbpmUfVhVvdMyBNGtuz55quxM7JXoG2orzmv5hEorOAm3ocwzaV0Q==",
+    "shasum": "2255d5602c9c210606cfa8c5e85214e65f9c7e17"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.0",
+    "date": "2024-02-09T06:09:03.353Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.0.tgz",
+    "unpackedBytes": 690186,
+    "fileCount": 518,
+    "integrity": "sha512-8dKhuBBpRZEodUttQhrSFJ6PQqHRjXHyeeegfxOf132pvgbf0tOb9qqb7q7eYwAWpOcYrsUOsWdJ0sQIIovhZg==",
+    "shasum": "09a9c63c9eee3b5df6c971853490e44267f1335a"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.4",
+    "date": "2024-02-17T13:50:53.949Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.4.tgz",
+    "unpackedBytes": 694469,
+    "fileCount": 520,
+    "integrity": "sha512-WIwMh3b9TrtcdGpJ9ljA74bK/njL6f9S0nH3eBIKVAudnuHDqyVi4k0P8etD9HVU3xu74a9KBg3xA6UlXGEIZg==",
+    "shasum": "6bce0aada0c6f94f218a3224a79ff97f7fc5395d"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.3",
+    "date": "2024-02-16T00:16:37.677Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.3.tgz",
+    "unpackedBytes": 693563,
+    "fileCount": 521,
+    "integrity": "sha512-LLZFvqiksAO6Hf080XCUbsEjRxIrqEoiIN1HUzL0xtYP+BZUxGfeWg8yB5Dvp/sI7T0Lt4XdtGTGLwpIzAsl8w==",
+    "shasum": "042ec90a6b784f85ee31c9dd8db6173d3588afdc"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.7",
+    "date": "2024-02-25T13:24:36.180Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.7.tgz",
+    "unpackedBytes": 700839,
+    "fileCount": 526,
+    "integrity": "sha512-1fhi9MUzMIXWqPWA7OGPTpzjQupT78rf+U6N+2vxwy7U76jUX0dmkUtp572gR+dbGR1YugLYvyg/JrgPOSoutw==",
+    "shasum": "55ffe7212e5634380fc942958932451d2b75715b"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.6",
+    "date": "2024-02-24T13:45:39.340Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.6.tgz",
+    "unpackedBytes": 700573,
+    "fileCount": 526,
+    "integrity": "sha512-yL8Dp4mNscQj3zqMsmuHRoDoJlbP/3Jjz5HrIcd8a7MEWDr/O8oPgEQx2saVG+NX8mgEeEDQOuG2cgXCc9VuoA==",
+    "shasum": "3c7b0e3b8c47f2c910a77aaa3727c5894c1c4f41"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.5",
+    "date": "2024-02-20T13:54:14.392Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.5.tgz",
+    "unpackedBytes": 696098,
+    "fileCount": 520,
+    "integrity": "sha512-6LEGL1Pf3+dLjVA0NJxAB/3FJ6S3W5qxd/XOG7Wl9YOrpMRZT9lt83R4Ojs8dO6GbAUSutI7zTyjStnSn9sbEg==",
+    "shasum": "bbfe3110dd6015b7bea00dfa974c39effce0f5ae"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.8",
+    "date": "2024-02-28T08:39:45.455Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.8.tgz",
+    "unpackedBytes": 701015,
+    "fileCount": 526,
+    "integrity": "sha512-zhTXu32vXeEXajsqZVjPfoyO0/fgAKLLmPBpSDzRBMr7zZ5N8yV1FmsfWl2MYtm+MD8hD7knLCovx8Oaqubd4w==",
+    "shasum": "775d6d4f92346742bc3c00b448b9c055815cd3d0"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.9",
+    "date": "2024-03-03T05:20:10.983Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.9.tgz",
+    "unpackedBytes": 700907,
+    "fileCount": 526,
+    "integrity": "sha512-XkFx6y6jAl08bGmoy53oGtHl8eHUixvmBulfcghrSySoJD3cW4UfFUa7JDGLOsIeJUv/a9d2pBFQUX7rzRnjvA==",
+    "shasum": "36cd003bd42c2abc5f8570b90fa7944825a8ab86"
+  },
+  {
+    "name": "hono",
+    "version": "4.1.0-rc.1",
+    "date": "2024-03-04T13:22:05.032Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.1.0-rc.1.tgz",
+    "unpackedBytes": 717668,
+    "fileCount": 538,
+    "integrity": "sha512-WLiiIb6ECMqP+LwrS+lD5QZRFdSDTszeLadsoeVRedw9g0Tteod8AtcSzhpH7inY9w0q5DjzHEFSaYBjWiet0g==",
+    "shasum": "4b7813c1c8f067c86b7a2898a2665bf2479dbc2a"
+  },
+  {
+    "name": "hono",
+    "version": "4.0.10",
+    "date": "2024-03-05T22:27:53.005Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.0.10.tgz",
+    "unpackedBytes": 701626,
+    "fileCount": 526,
+    "integrity": "sha512-sq0RFAC3Ij+bkhZu90EGAQnVI1EhohRsjo9BU+BjXLbC71GSy41JjsFqCeg8MRpO2Gdu0A4MXF5licO89tn/rw==",
+    "shasum": "61aa36d6645723a5bc8ee4930f30de590440abce"
+  },
+  {
+    "name": "hono",
+    "version": "4.1.0",
+    "date": "2024-03-11T15:56:37.485Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.1.0.tgz",
+    "unpackedBytes": 740521,
+    "fileCount": 559,
+    "integrity": "sha512-9no6DCHb4ijB1tWdFXU6JnrnFgzwVZ1cnIcS1BjAFnMcjbtBTOMsQrDrPH3GXbkNEEEkj8kWqcYBy8Qc0bBkJQ==",
+    "shasum": "62cef81df0dbf731643155e1e5c1b9dffb230dc4"
+  },
+  {
+    "name": "hono",
+    "version": "4.1.3",
+    "date": "2024-03-20T12:58:07.009Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.1.3.tgz",
+    "unpackedBytes": 745961,
+    "fileCount": 559,
+    "integrity": "sha512-V0I6qCw0gn2MA4LLtyXe6oD3/7ToeQf5Zv98o7uSuLuViQgWHJeYoYrZ4NbXhOtg4SaZjNJJm1+XuFB3LN+j6A==",
+    "shasum": "8fd8cb2fe52da139755891600ffc8fabf4079ca0"
+  },
+  {
+    "name": "hono",
+    "version": "4.1.2",
+    "date": "2024-03-18T21:02:43.994Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.1.2.tgz",
+    "unpackedBytes": 744095,
+    "fileCount": 559,
+    "integrity": "sha512-pbfllzxpZifsp8gbjB01wetLk6Lc4p0OkJmtbH92CYFMPAdL6dzS2tHldfPjnNP87mNJS717P72lt6jzZSqg/g==",
+    "shasum": "0d4764efe1043280c2eda48d172ee84940c6c5ef"
+  },
+  {
+    "name": "hono",
+    "version": "4.1.1",
+    "date": "2024-03-17T00:51:06.301Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.1.1.tgz",
+    "unpackedBytes": 741720,
+    "fileCount": 559,
+    "integrity": "sha512-+ljwSwMby5vYaA1ZmP8iQSq/bF5wb8gGwFdybJk3A4yNwtn4X0zuyim49VNCYHBUi/jfY0bnzwntth4/eX6NHw==",
+    "shasum": "eaf1f0250be29b0e5aa0909917ace4b074ea8aec"
+  },
+  {
+    "name": "hono",
+    "version": "4.1.4",
+    "date": "2024-03-25T07:54:18.950Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.1.4.tgz",
+    "unpackedBytes": 747009,
+    "fileCount": 559,
+    "integrity": "sha512-JcdAKRBHjWO5OEkEW6Lv5NUr4QLl4InshCIUnHwGY7hymCxmV1Ji/eAAr1hclQixWc3I7ZljMHXwIedNWRAcqA==",
+    "shasum": "f2b8746e3d0882282d65c333d6a4e921b772cdf2"
+  },
+  {
+    "name": "hono",
+    "version": "4.1.5",
+    "date": "2024-03-27T22:33:00.363Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.1.5.tgz",
+    "unpackedBytes": 747173,
+    "fileCount": 559,
+    "integrity": "sha512-3ChJiIoeCxvkt6vnkxJagplrt1YZg3NyNob7ssVeK2PUqEINp4q1F94HzFnvY9QE8asVmbW5kkTDlyWylfg2vg==",
+    "shasum": "7c3d7547672fab1928347ff0eb458e4e34634a3a"
+  },
+  {
+    "name": "hono",
+    "version": "4.1.7",
+    "date": "2024-03-31T09:54:39.135Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.1.7.tgz",
+    "unpackedBytes": 747493,
+    "fileCount": 559,
+    "integrity": "sha512-Qa9/OM64d3we/COpxpJNT8p2IEvXbvRzp2eX4wf48eDvqoU3pBrnbY6zAF2rK878GxkkfCo6yipZXNsPiTrBMQ==",
+    "shasum": "d1e2a7dd9729ab59c5989c361ac96684962012b6"
+  },
+  {
+    "name": "hono",
+    "version": "4.1.6",
+    "date": "2024-03-31T09:14:39.632Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.1.6.tgz",
+    "unpackedBytes": 747471,
+    "fileCount": 559,
+    "integrity": "sha512-AIkMdtKIZsZ3zjYe5MSDf3dcInZZPXcTizr8DdBVJhrEu4y0pLuk8N9CSUhiOFWIRlnLSIinFFmtVLulruxTuQ==",
+    "shasum": "29b362bad98fd80932e60dec78c879a0e7755208"
+  },
+  {
+    "name": "hono",
+    "version": "4.2.0-rc.1",
+    "date": "2024-03-31T13:52:21.848Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.2.0-rc.1.tgz",
+    "unpackedBytes": 777422,
+    "fileCount": 581,
+    "integrity": "sha512-DqmF7i1w1h7LrPm4SoCWHBX3HkGwCzzf/joblU+x3+2O8jr3147Ei/a1tb7cqtC2wWLyfdvRTj1/BH8rJGfPWQ==",
+    "shasum": "ec51b2c3aa39099a4b194bd4a4dd6b94c1478158"
+  },
+  {
+    "name": "hono",
+    "version": "4.2.2",
+    "date": "2024-04-05T07:41:38.941Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.2.2.tgz",
+    "unpackedBytes": 779344,
+    "fileCount": 580,
+    "integrity": "sha512-mDmjBHF6uBNN3TASdAbDCFsN9FLbrlgXyFZkhLEkU7hUgk0+T9hcsUrL/nho4qV+Xk0RDHx7gop4Q1gelZZVRw==",
+    "shasum": "d06dff091c8ed2541a38d90b6de8d39ea89f3e23"
+  },
+  {
+    "name": "hono",
+    "version": "4.2.1",
+    "date": "2024-04-03T07:31:44.650Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.2.1.tgz",
+    "unpackedBytes": 778870,
+    "fileCount": 580,
+    "integrity": "sha512-yDv/6esHiDgq5fvsALTNyNiRxktOplO6LfSMgIkGE+E5vF8axsUfcyfzzlbLYM9ZQDMuws/ZLGUGWwYnAwCcNw==",
+    "shasum": "930e89715a2548281ee7811989407ce42807c5d9"
+  },
+  {
+    "name": "hono",
+    "version": "4.2.0",
+    "date": "2024-04-02T10:52:30.006Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.2.0.tgz",
+    "unpackedBytes": 779314,
+    "fileCount": 581,
+    "integrity": "sha512-4A9WSwQW1V1Bby07Ida1FZwvYceSkByd8uoxvcmYSPaEWIZqutn/s5jE3CJOci8Jt//vb9VDn+5B3xobIzvA6A==",
+    "shasum": "105fb25ebbea9eb2fe57a07dbf098d6fae3e487f"
+  },
+  {
+    "name": "hono",
+    "version": "4.2.3",
+    "date": "2024-04-09T08:05:02.437Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.2.3.tgz",
+    "unpackedBytes": 781100,
+    "fileCount": 580,
+    "integrity": "sha512-yZDnPOp/XzjIB7KUWaOxwLSywnhxMvAKth8hfKhWQiWXeZhBfC6GlFnEst/FOOgn7rSWjShhQPS89PLEuHxq3Q==",
+    "shasum": "a7b6cb1a24e9841f6486935ea177a51b60a19a36"
+  },
+  {
+    "name": "hono",
+    "version": "4.2.4",
+    "date": "2024-04-13T15:52:35.844Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.2.4.tgz",
+    "unpackedBytes": 781241,
+    "fileCount": 580,
+    "integrity": "sha512-2T5Ahxh8tT0ISKCrNeA+OIwfD5W4EZ00iIMYBBCuiIivr+sOrZYOphinARSG7wL3nFsY6zkFHMMZbcR9CzEzug==",
+    "shasum": "3a7a025d1aa143c123883c81b60dd28c044636f7"
+  },
+  {
+    "name": "hono",
+    "version": "4.2.5",
+    "date": "2024-04-18T04:58:45.332Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.2.5.tgz",
+    "unpackedBytes": 782871,
+    "fileCount": 580,
+    "integrity": "sha512-uonJD3i/yy005kQ7bPZRVfG3rejYJwyPqBmPoUGijS4UB/qM+YlrZ7xzSWy+ByDu9buGHUG+f+SKzz03Y6V1Kw==",
+    "shasum": "2e5ad45d67af3c336a6878c65820e93db840e8f6"
+  },
+  {
+    "name": "hono",
+    "version": "4.2.6",
+    "date": "2024-04-22T00:00:37.200Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.2.6.tgz",
+    "unpackedBytes": 784388,
+    "fileCount": 580,
+    "integrity": "sha512-AtbHZJYWsm+uFHLz0C6xltX7hjOV44a55gSEGBfoQOJ00KSxEUOoiIkmd+NXfapNX0j2GCKhqMmYeegBdHRwcQ==",
+    "shasum": "064a50df90860799e86fc14f84ba994a050cf43e"
+  },
+  {
+    "name": "hono",
+    "version": "4.2.9",
+    "date": "2024-04-29T04:44:51.597Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.2.9.tgz",
+    "unpackedBytes": 784986,
+    "fileCount": 580,
+    "integrity": "sha512-59FAv52UxDWUt/NlC0NzrRCjeVCThUnVlqlrKYm+k80XujBu6uJwBIa5gACKKZWobjA0MJ6Vds0I3URKf383Cw==",
+    "shasum": "9e81de065d18f61721aa6bfd9121dcf2af3e78d2"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.0",
+    "date": "2024-05-03T10:36:48.318Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.0.tgz",
+    "unpackedBytes": 812097,
+    "fileCount": 586,
+    "integrity": "sha512-rf9142VLQNMVBj+BjVLISgDWDxnJGUIuX39dvqcdySwr2gTsPfsqW1twWDUjfwQNWm9hEn40MpDu9RFGUN+e8A==",
+    "shasum": "5753eda8fa609ab0cedfd6c889d1836ffd8f0cae"
+  },
+  {
+    "name": "hono",
+    "version": "4.2.7",
+    "date": "2024-04-23T08:19:57.341Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.2.7.tgz",
+    "unpackedBytes": 784312,
+    "fileCount": 580,
+    "integrity": "sha512-k1xHi86tJnRIVvqhFMBDGFKJ8r5O+bEsT4P59ZK59r0F300Xd910/r237inVfuT/VmE86RQQffX4OYNda6dLXw==",
+    "shasum": "439ae5b0fc3620f254988b228b0e0c4d91ffe367"
+  },
+  {
+    "name": "hono",
+    "version": "4.2.8",
+    "date": "2024-04-26T09:33:46.576Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.2.8.tgz",
+    "unpackedBytes": 785274,
+    "fileCount": 580,
+    "integrity": "sha512-re/zNrOWb7Sp9KhojlMEgcgvqsE8Rgk9IcmumqsbKa9ruPT5XuOcx1U+xuNaI4SUnwrPsiTQ72MiodtpJEVfjg==",
+    "shasum": "a5250570692bf77f690b5534e7ef4c8d26da0408"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.1",
+    "date": "2024-05-04T09:21:08.803Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.1.tgz",
+    "unpackedBytes": 812577,
+    "fileCount": 586,
+    "integrity": "sha512-yw/m4lZCuPpVJUQXyoeCy4uHXmq/osMxfEM8jMKGMr2V1OuL3vYybLrtoGj3GxC2wKIcMZO20i9nDMuZGkExNw==",
+    "shasum": "a416b2bf5b53009e5af4a36fbd9e45b071636e3d"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.2",
+    "date": "2024-05-04T23:24:09.782Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.2.tgz",
+    "unpackedBytes": 812520,
+    "fileCount": 586,
+    "integrity": "sha512-wiZcF5N06tc232U11DnqW6hP8DNoypjsrxslKXfvOqOAkTdh7K1HLZJH/92Mf+urxUTGi96f1w4xx/1Qozoqiw==",
+    "shasum": "8dc53c087794d01a7bc9573c90292c3a1ba9e832"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.4",
+    "date": "2024-05-09T13:51:15.086Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.4.tgz",
+    "unpackedBytes": 814128,
+    "fileCount": 586,
+    "integrity": "sha512-oh+PBwW8yElj3bUlY2dTXhuPt1MCZp6Nb04tejLwY+GXdphQH6uCpUP0dY5iLvFY5wM8fNHrMx1QeMKbhnzw9w==",
+    "shasum": "dfc498050164a0a2c6e472a6f707563afd7bb9e5"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.3",
+    "date": "2024-05-08T05:31:05.641Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.3.tgz",
+    "unpackedBytes": 813549,
+    "fileCount": 586,
+    "integrity": "sha512-LDa1n/aLYK4CsZQyjQpFiaQgxiXCZp0WfcfliinQOH1Lqt4mIOvyw4qjmHihpKXsuXhkQHfHU2Erysp6oEdnVA==",
+    "shasum": "ce7d148cda227e0054be89a9a28f70cb8d9bc170"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.5",
+    "date": "2024-05-12T07:19:21.543Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.5.tgz",
+    "unpackedBytes": 814000,
+    "fileCount": 586,
+    "integrity": "sha512-uiyrxCoklnpUMwRif6smNUp2psn7tfe0NP2B5/7N0U24yqQZJOPVUbpmp5apsaAf4sYFAX/eW06GoV/9srtNhQ==",
+    "shasum": "685aa217959bd6ac241a1489fc1ca4fd47900d85"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.9",
+    "date": "2024-05-21T00:03:07.564Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.9.tgz",
+    "unpackedBytes": 821042,
+    "fileCount": 586,
+    "integrity": "sha512-6c5LVE23HnIS8iBhY+XPmYJlPeeClznOi7mBNsAsJCgxo8Ciz75LTjqRUf5wv4RYq8kL+1KPLUZHCtKmbZssNg==",
+    "shasum": "3c866d527241dc4d423ef6a4e1fb1f8ed032278e"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.6",
+    "date": "2024-05-12T22:56:06.622Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.6.tgz",
+    "unpackedBytes": 814546,
+    "fileCount": 586,
+    "integrity": "sha512-2IqXwrxWF4tG2AR7b5tMYn+KEnWK8UvdC/NUSbOKWj/Kj11OJqel58FxyiXLK5CcKLiL8aGtTe4lkBKXyaHMBQ==",
+    "shasum": "358416f14651b259ba8918cd5fd3a2a4ded9b8af"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.7",
+    "date": "2024-05-15T13:10:48.936Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.7.tgz",
+    "unpackedBytes": 819847,
+    "fileCount": 586,
+    "integrity": "sha512-GXlsGnCAwGosu+COwYyYC8MwOY2L6Ihg9V1znYdMD8DHCJl+13Nk4o8dsBYJpae4oujjw24jBaITuYWVq2+V8Q==",
+    "shasum": "259196a64b586100f83b434ad395146a941d534a"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.8",
+    "date": "2024-05-19T11:02:24.455Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.8.tgz",
+    "unpackedBytes": 820484,
+    "fileCount": 586,
+    "integrity": "sha512-IepU1cWz7oWY/os4Dbgq8dAjQh+APbS0LvLf85bL3cnh4sqMZ1MSBCYFkpm+MIpGoRUMmX8v9CeQh+TmBX3RUA==",
+    "shasum": "fa6fb6beb8245d2a95cbd5cce0f0a28c143967f3"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.10",
+    "date": "2024-05-23T07:19:40.511Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.10.tgz",
+    "unpackedBytes": 821829,
+    "fileCount": 586,
+    "integrity": "sha512-67NRwEpFljCRkdl4th4LH+DKj/skEqtRJE9otdp88CGTIMZ7uG2Avn5DTkKsGwjnm2LxkoIlA+bQfFLg33psvg==",
+    "shasum": "d8a468fa6b1f54a796ddedc6a65c402103518076"
+  },
+  {
+    "name": "hono",
+    "version": "4.3.11",
+    "date": "2024-05-24T08:25:36.980Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.3.11.tgz",
+    "unpackedBytes": 821867,
+    "fileCount": 586,
+    "integrity": "sha512-Hle1uNqJJKkebFkFEEWr3UAElJP922Xy0STfl8c+1PH1q+l6WrmhwAJFS6YH8ZWJY4z46qJtssbyVwwPm3dP5w==",
+    "shasum": "fc3efd306b0b612b8f76cd93b83d0f9a834399ad"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.0-rc.1",
+    "date": "2024-05-24T08:59:08.521Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.0-rc.1.tgz",
+    "unpackedBytes": 859942,
+    "fileCount": 612,
+    "integrity": "sha512-F02D8yYhIKCl6+UKtJbzS/IXRvQ3VyDnZWxgTQuxNhNWYVHv9NtxMGdQ6ZZXC79YExF2JoldePRoZJx4OffHhw==",
+    "shasum": "737e40e3a5c0fd769e447d734b8445faa05b0f00"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.0",
+    "date": "2024-05-27T07:49:14.654Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.0.tgz",
+    "unpackedBytes": 869091,
+    "fileCount": 615,
+    "integrity": "sha512-Bb2GHk8jmlLIuxc3U+7UBGOoA5lByJTAFnRdH2N2fqEVy9TEQzJ9saIJUQ/ZqBvEvgEFe7UjPFNSFi8cyeU+3Q==",
+    "shasum": "df456c61fab856db3d546869ec8d86839ff31b54"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.1",
+    "date": "2024-05-30T23:02:25.633Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.1.tgz",
+    "unpackedBytes": 882192,
+    "fileCount": 618,
+    "integrity": "sha512-2O9Gwerv8UW1md3LpJPhdYeIseCrRgeY7GFBzpWjIgYskTeamvCgBKV3RbSNc3q0/EkkYAJbjIP+5M3U6sgNdQ==",
+    "shasum": "6122da456e7cbc4a2023d8ef9ad038319b2c01d4"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.2",
+    "date": "2024-05-30T23:14:36.681Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.2.tgz",
+    "unpackedBytes": 882192,
+    "fileCount": 618,
+    "integrity": "sha512-bRhZ+BM9r04lRN2i9wiZ18yQNbZxHsmmRIItoAb43nRkHnIDsFhFh4mJ0seEs06FvenibpAgSVNHQ8ZzcDQx2A==",
+    "shasum": "41c46cab37c66ee6224cf063c4592442d271e45f"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.3",
+    "date": "2024-06-03T11:48:49.963Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.3.tgz",
+    "unpackedBytes": 885325,
+    "fileCount": 615,
+    "integrity": "sha512-G7rTruKzrHXPz1KB4B50deKydPA9+aeei+WC1hikP0abN9N+a6yORuweageaqWocYfYNkpoqA5ezGV2mzQasvw==",
+    "shasum": "50cf90e8f227d26f1244c3ce0b276e225474f866"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.4",
+    "date": "2024-06-06T14:02:22.260Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.4.tgz",
+    "unpackedBytes": 887623,
+    "fileCount": 618,
+    "integrity": "sha512-zO5+4K8yf1iuKhBZhwmpZ/0LzPMr8Zt1RugEGM1xvOqgh9DyLb7tslOtoBks4bmm5bIcLtzLCXUpYpXOkwpABA==",
+    "shasum": "60eda24bd63dfb379735b9d924016c3c7b1bb329"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.5",
+    "date": "2024-06-11T01:22:26.816Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.5.tgz",
+    "unpackedBytes": 886545,
+    "fileCount": 618,
+    "integrity": "sha512-hyf+1c+gTEo0+xjdYT2e8y4M3HcEy0ARuRZHPRgeRhq/mupkI4j9/qEWVKsyj0se4KhfRnYrld4Tk6z/9veq/Q==",
+    "shasum": "a47cee67090b24f2b61358cd5a7bf0866560fdbc"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.0-rc.1",
+    "date": "2024-06-12T03:17:55.933Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.0-rc.1.tgz",
+    "unpackedBytes": 896638,
+    "fileCount": 621,
+    "integrity": "sha512-zRAjYsa773CiEAdADiBsEhU5pjkX6e8IfzuT6HVIdx5b9siTSizKzEG2mf6sQQFqslWLJt+bX27vrHXrvsKGPQ==",
+    "shasum": "99323091d7626cad69d2520c47a19d55cdd5e5ff"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.6",
+    "date": "2024-06-13T22:09:09.643Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.6.tgz",
+    "unpackedBytes": 887003,
+    "fileCount": 618,
+    "integrity": "sha512-XGRnoH8WONv60+PPvP9Sn067A9r/8JdHDJ5bgon0DVEHeR1cJPkWjv2aT+DBfMH9/mEkYa1+VEVFp1DT1lIwjw==",
+    "shasum": "500dc363ca62a088fbdfc83e4ef76440e343b550"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.7",
+    "date": "2024-06-19T06:24:40.602Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.7.tgz",
+    "unpackedBytes": 887067,
+    "fileCount": 618,
+    "integrity": "sha512-WoQWFQyVFEVRtIzP5sHPv7nvIw+RYL/HRnvnOCDxj6A+BtrwuC9S0vryZbV4IyFcNgOJ87r/phDiC1x2eEo4Gg==",
+    "shasum": "c7b195bdeff0b46e829189c08049decc0c6510c0"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.9",
+    "date": "2024-06-27T09:22:55.047Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.9.tgz",
+    "unpackedBytes": 888397,
+    "fileCount": 618,
+    "integrity": "sha512-VW1hnYipHL/XsnSYiCTLJ+Z7iisZYWwSOiKXm9RBV2NKPxNqjfaHqeMFiDl11fK893ofmErvRpX20+FTNjZIjA==",
+    "shasum": "9b1d3943c987b29360304d20c1867320152def50"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.8",
+    "date": "2024-06-24T21:24:23.865Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.8.tgz",
+    "unpackedBytes": 888221,
+    "fileCount": 618,
+    "integrity": "sha512-eewnSgTzdWgFVn97kPV24h+9UVNUQ+9mj6IRxr7dBseTaTBSHtFo/T/vRNcqJkQFysVoXyecflr3Xe/fdvzEpQ==",
+    "shasum": "7a59671adf4ec0210558ae5e1ec0e568306cef99"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.10",
+    "date": "2024-06-29T22:55:45.264Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.10.tgz",
+    "unpackedBytes": 889570,
+    "fileCount": 618,
+    "integrity": "sha512-z6918u9rXRU5CCisMHd2uUVoQXcNyUrUMmYY7VH10v4HJG7+hqgMK/G8YNTd13C6s4rBfzF09iz8VpOip9qG3A==",
+    "shasum": "f980feea3b74dd4edc9249a0726165df13c50e16"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.0-rc.2",
+    "date": "2024-06-29T08:40:01.626Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.0-rc.2.tgz",
+    "unpackedBytes": 953433,
+    "fileCount": 642,
+    "integrity": "sha512-359fGIdmgCyaCVYJSfOgDmEGwJpMESAZrpNvT7whgq8nmzWPcp/VqsA+eCuci9Z7XvkdhGnjNDm1PGlKvID+3g==",
+    "shasum": "e2fa25b07facae53a0dbf2bea63a1138fade9a37"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.11",
+    "date": "2024-07-03T01:53:53.311Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.11.tgz",
+    "unpackedBytes": 890247,
+    "fileCount": 618,
+    "integrity": "sha512-R5RADpjoRsR3/VsnFovpsYNLPnC1f+FgdfsePk3qIgjb4D41Sg7uW5QCj41kzEOwXCjBg0sVvOZMvUNZ0DKB7g==",
+    "shasum": "e890b9c177e8d304e1cda1c541d24077814ee1c6"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.12",
+    "date": "2024-07-06T07:13:38.585Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.12.tgz",
+    "unpackedBytes": 896933,
+    "fileCount": 618,
+    "integrity": "sha512-Lx4Vwbws0IqFfXIVYychxUW0A4EE+7dn/jsjVeM34OXSA2Xs45MkDDP14Mzznp7LlDemUNHQG2uv2N5jQld0hA==",
+    "shasum": "dbde2d474cd996016ee53f779125efc7c1534879"
+  },
+  {
+    "name": "hono",
+    "version": "4.4.13",
+    "date": "2024-07-11T09:24:36.485Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.4.13.tgz",
+    "unpackedBytes": 897067,
+    "fileCount": 618,
+    "integrity": "sha512-c6qqenclmQ6wpXzqiElMa2jt423PVCmgBreDfC5s2lPPpGk7d0lOymd8QTzFZyYC5mSSs6imiTMPip+gLwuW/g==",
+    "shasum": "954e8f6e4bab14f3f9d7bac4eef4c56d23e7f900"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.1",
+    "date": "2024-07-20T14:10:53.762Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.1.tgz",
+    "unpackedBytes": 997228,
+    "fileCount": 680,
+    "integrity": "sha512-6q8AugoWG5wlrjdGG8OFFiqEsPlPGjODjUik48sEJeko4Tae1UsLS2vUiYHLEJx1gJvOZa4BWkQC+urwDmkEvQ==",
+    "shasum": "a258710ffaba07d64580a0c112cba97c4319b606"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.2",
+    "date": "2024-07-27T09:05:51.632Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.2.tgz",
+    "unpackedBytes": 997591,
+    "fileCount": 680,
+    "integrity": "sha512-93P8XEALrHAUGRZoqXs8MDL3w9mDgRpbW9Sy5x4LS7srg78bKUw7EGynxze+Ft1e/rLGmDAbxeSTMu6dHUSRDw==",
+    "shasum": "5440d8d2661cc1ec5a6e6427c5a3b0fb5b6e89dc"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.0",
+    "date": "2024-07-16T14:02:31.001Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.0.tgz",
+    "unpackedBytes": 998485,
+    "fileCount": 684,
+    "integrity": "sha512-ZbezypZfn4odyApjCCv+Fw5OgweBqRLA/EsMyc4FUknFvBJcBIKhHy4sqmD1rWpBc/3wUlaQ6tqOPjk36R1ckg==",
+    "shasum": "cc8caebff934728e8f3f99cf005278828a43f137"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.3",
+    "date": "2024-07-29T13:37:42.679Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.3.tgz",
+    "unpackedBytes": 999668,
+    "fileCount": 680,
+    "integrity": "sha512-r26WwwbKD3BAYdfB294knNnegNda7VfV1tVn66D9Kvl9WQTdrR+5eKdoeaQNHQcC3Gr0KBikzAtjd6VsRGVSaw==",
+    "shasum": "e3308047decc10f713f85044f549aa293c23bf9e"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.5",
+    "date": "2024-08-11T04:05:36.394Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.5.tgz",
+    "unpackedBytes": 1005040,
+    "fileCount": 680,
+    "integrity": "sha512-fXBXHqaVfimWofbelLXci8pZyIwBMkDIwCa4OwZvK+xVbEyYLELVP4DfbGaj1aEM6ZY3hHgs4qLvCO2ChkhgQw==",
+    "shasum": "18090b0e6f16359f33b80658821697250a1147db"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.4",
+    "date": "2024-08-06T11:22:06.825Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.4.tgz",
+    "unpackedBytes": 1000287,
+    "fileCount": 680,
+    "integrity": "sha512-k2IguJfRgNCpDbAfpxk+o+fZBLFHl4+eIZUpjc1ItZWHeZ37SmT3efA1UpkIaC0hSf1NJg0E79/wWn6g9LQ4Cw==",
+    "shasum": "654be361a29eb7a3e7e5eb41f02ecbcef1e5b6a1"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.7",
+    "date": "2024-08-21T02:14:55.712Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.7.tgz",
+    "unpackedBytes": 1011291,
+    "fileCount": 680,
+    "integrity": "sha512-7GeBa+zuZ6rXQEcsYvoAafLNgDr3IMxoMlU1JUc23Buy99FaUpjB0viKIFOsfnzMdEp7RhPL6uLYsVuddjdMvw==",
+    "shasum": "f8b3162bb13288a7af4626dc82dc54542f483c82"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.8",
+    "date": "2024-08-22T07:07:14.524Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.8.tgz",
+    "unpackedBytes": 1011293,
+    "fileCount": 680,
+    "integrity": "sha512-pqpSlcdqGkpTTRpLYU1PnCz52gVr0zVR9H5GzMyJWuKQLLEBQxh96q45QizJ2PPX8NATtz2mu31/PKW/Jt+90Q==",
+    "shasum": "212ee54b214cd90ecc44904b6f00ee58a9af32b8"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.11",
+    "date": "2024-09-03T07:49:38.373Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.11.tgz",
+    "unpackedBytes": 1018583,
+    "fileCount": 683,
+    "integrity": "sha512-62FcjLPtjAFwISVBUshryl+vbHOjg8rE4uIK/dxyR8GpLztunZpwFmfEvmJCUI7xoGh/Sr3CGCDPCmYxVw7wUQ==",
+    "shasum": "452743c4b372078001506e3ce315e878f030e369"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.9",
+    "date": "2024-08-26T12:35:38.450Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.9.tgz",
+    "unpackedBytes": 1012162,
+    "fileCount": 680,
+    "integrity": "sha512-zz8ktqMDRrZETjxBrv8C5PQRFbrTRCLNVAjD1SNQyOzv4VjmX68Uxw83xQ6oxdAB60HiWnGEatiKA8V3SZLDkQ==",
+    "shasum": "2627c55c4c97ae826973dddac857ba4476fde6c6"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.0",
+    "date": "2024-09-11T12:03:42.649Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.0.tgz",
+    "unpackedBytes": 1032980,
+    "fileCount": 692,
+    "integrity": "sha512-2jN7gHRCbfFXpHitg87ZDsComUB+PEm+rf2aDjy6e9SCwgnxkpQBCTKYumWQ4q4D3a+KuSW8VJAHzl4EnqYfeg==",
+    "shasum": "69d8269a32075aa2c68f3b2d90296e049469c5a7"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.10",
+    "date": "2024-08-31T02:33:37.833Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.10.tgz",
+    "unpackedBytes": 1016096,
+    "fileCount": 680,
+    "integrity": "sha512-az6tdU1U8o/l0v8O37FIQuc+ER/TeD9vHt/qs8JnBDgMxw6Zu5L2AixUyHeXZNcu87r7iYo8Ey85R7IogOINKA==",
+    "shasum": "6ee874b54faffedaaa94a658c96e2cd4968ccea6"
+  },
+  {
+    "name": "hono",
+    "version": "4.5.6",
+    "date": "2024-08-17T10:16:41.893Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.5.6.tgz",
+    "unpackedBytes": 1006468,
+    "fileCount": 680,
+    "integrity": "sha512-9SuUC/zLQv8YAcnIxJko0KCeLI0Q6menPsDWuJ9jaH+r8ZkVXeLqeLs1QJXCPKKbURAWj9x0SJBSFh803EnAUw==",
+    "shasum": "21967fa7fca449a03dac64c0e3be2eece094481c"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.1",
+    "date": "2024-09-11T13:47:08.006Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.1.tgz",
+    "unpackedBytes": 1032978,
+    "fileCount": 692,
+    "integrity": "sha512-6NGwvttY1+HAFii08VYiEKI6ETPAFbpLntpm2M/MogEsAFWdZV74UNT+2M4bmqX90cIQhjlpBSP+tO+CfB0uww==",
+    "shasum": "6ba0d01e7c5614fee4d6776f6c3aeb8ec88ee16f"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.2",
+    "date": "2024-09-17T01:15:53.812Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.2.tgz",
+    "unpackedBytes": 1034623,
+    "fileCount": 695,
+    "integrity": "sha512-v+39817TgAhetmHUEli8O0uHDmxp2Up3DnhS4oUZXOl5IQ9np9tYtldd42e5zgdLVS0wsOoXQNZ6mx+BGmEvCA==",
+    "shasum": "bdb2d3d33aedcdb8aaa0f12b67b738edf2b1ab37"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.7",
+    "date": "2024-10-26T02:19:29.733Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.7.tgz",
+    "unpackedBytes": 1048776,
+    "fileCount": 699,
+    "integrity": "sha512-wX4ZbOnzfNO61hUjuQbJ7OPGs1fWXXVVJ8VTPDb2Ls/x9HjCbVTm80Je6VTHMz5n5RGDtBgV9d9ZFZxBqx56ng==",
+    "shasum": "5389be797be4e049991d29ad7aea499e70d28085"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.4",
+    "date": "2024-10-11T08:30:04.412Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.4.tgz",
+    "unpackedBytes": 1036529,
+    "fileCount": 699,
+    "integrity": "sha512-T5WqBkTOcIQblqBKB5mpzaH/A+dSpvVe938xZJCHOmOuYfF7DSwE/9/10+BMvwSPq9N/f6LiQ38HxrZSQOsXKw==",
+    "shasum": "fbca01aa2b68dd4aea49d6eddf6b97a91cd9019f"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.6",
+    "date": "2024-10-22T05:18:37.111Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.6.tgz",
+    "unpackedBytes": 1045324,
+    "fileCount": 699,
+    "integrity": "sha512-euUj5qwvtkG+p38GFs0LYacwaoS2hYRAGn9ysAggiwT2QBcPnT1XYUCW3hatW4C1KzAXTYuQ08BlVDJtAGuhlg==",
+    "shasum": "f863eb0efde76bc137157347ce7747a3b2457bb3"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.3",
+    "date": "2024-09-24T03:34:44.306Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.3.tgz",
+    "unpackedBytes": 1038354,
+    "fileCount": 699,
+    "integrity": "sha512-0LeEuBNFeSHGqZ9sNVVgZjB1V5fmhkBSB0hZrpqStSMLOWgfLy0dHOvrjbJh0H2khsjet6rbHfWTHY0kpYThKQ==",
+    "shasum": "78a58a24ea79e00071cff59596486e91e1c1a9d0"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.5",
+    "date": "2024-10-15T08:33:37.652Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.5.tgz",
+    "unpackedBytes": 1043985,
+    "fileCount": 699,
+    "integrity": "sha512-qsmN3V5fgtwdKARGLgwwHvcdLKursMd+YOt69eGpl1dUCJb8mCd7hZfyZnBYjxCegBG7qkJRQRUy2oO25yHcyQ==",
+    "shasum": "9d5a1ada5b40dc865e2d28c0bcc5d24cc755b9f1"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.8",
+    "date": "2024-10-29T06:38:56.325Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.8.tgz",
+    "unpackedBytes": 1054212,
+    "fileCount": 702,
+    "integrity": "sha512-f+2Ec9JAzabT61pglDiLJcF/DjiSefZkjCn9bzm1cYLGkD5ExJ3Jnv93ax9h0bn7UPLHF81KktoyjdQfWI2n1Q==",
+    "shasum": "7414ed928dda914d7c81f64f5b3b12c2e2687d03"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.10",
+    "date": "2024-11-13T08:34:14.074Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.10.tgz",
+    "unpackedBytes": 1058011,
+    "fileCount": 705,
+    "integrity": "sha512-IXXNfRAZEahFnWBhUUlqKEGF9upeE6hZoRZszvNkyAz/CYp+iVbxm3viMvStlagRJohjlBRGOQ7f4jfcV0XMGg==",
+    "shasum": "b778437fd1124b1ebef5798b420213528f4c5a67"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.9",
+    "date": "2024-11-04T05:10:51.186Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.9.tgz",
+    "unpackedBytes": 1058315,
+    "fileCount": 705,
+    "integrity": "sha512-p/pN5yZLuZaHzyAOT2nw2/Ud6HhJHYmDNGH6Ck1OWBhPMVeM1r74jbCRwNi0gyFRjjbsGgoHbOyj7mT1PDNbTw==",
+    "shasum": "4dbe1d90b69ab013cbd296ec8b02cfc107eae1e0"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.11",
+    "date": "2024-11-19T23:50:09.073Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.11.tgz",
+    "unpackedBytes": 1060240,
+    "fileCount": 708,
+    "integrity": "sha512-f0LwJQFKdUUrCUAVowxSvNCjyzI7ZLt8XWYU/EApyeq5FfOvHFarBaE5rjU9HTNFk4RI0FkdB2edb3p/7xZjzQ==",
+    "shasum": "8aa9bea754cfd6e295800652a107dd850bcf3c54"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.12",
+    "date": "2024-11-25T03:44:41.957Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.12.tgz",
+    "unpackedBytes": 1062978,
+    "fileCount": 708,
+    "integrity": "sha512-eHtf4kSDNw6VVrdbd5IQi16r22m3s7mWPLd7xOMhg1a/Yyb1A0qpUFq8xYMX4FMuDe1nTKeMX5rTx7Nmw+a+Ag==",
+    "shasum": "edc052e1154f22b74d4d3de9fdcdea0e0187ac3e"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.14",
+    "date": "2024-12-14T13:29:02.696Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.14.tgz",
+    "unpackedBytes": 1064371,
+    "fileCount": 708,
+    "integrity": "sha512-j4VkyUp2xazGJ8eCCLN1Vm/bxdvm/j5ZuU9AIjLu9vapn2M44p9L3Ktr9Vnb2RN2QtcR/wVjZVMlT5k7GJQgPw==",
+    "shasum": "f83f51e81b8ae5611dab459570990bf4c977d20c"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.15",
+    "date": "2024-12-28T07:45:53.651Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.15.tgz",
+    "unpackedBytes": 1066470,
+    "fileCount": 711,
+    "integrity": "sha512-OiQwvAOAaI2JrABBH69z5rsctHDzFzIKJge0nYXgtzGJ0KftwLWcBXm1upJC23/omNRtnqM0gjRMbtXshPdqhQ==",
+    "shasum": "86e9c12a1b8115c96ec8538ca7d7cb8e21e30e4b"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.13",
+    "date": "2024-12-06T07:16:56.504Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.13.tgz",
+    "unpackedBytes": 1064627,
+    "fileCount": 708,
+    "integrity": "sha512-haV0gaMdSjy9URCRN9hxBPlqHa7fMm/T72kAImIxvw4eQLbNz1rgjN4hHElLJSieDiNuiIAXC//cC6YGz2KCbg==",
+    "shasum": "e92b328c80823802f0b346a5c4b56470adb242bc"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.16",
+    "date": "2025-01-05T09:18:28.165Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.16.tgz",
+    "unpackedBytes": 1067303,
+    "fileCount": 711,
+    "integrity": "sha512-iE6xOPwDYlfnZFwk6BfIMMIH4WZm3pPhz6rc1uJM/OPew0pjG5K6p8WTLaMBY1/szF/T0TaEjprMpwn16BA0NQ==",
+    "shasum": "f31396b3aa8b66001937d5e8e69e2a7125ab0ec8"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.18",
+    "date": "2025-01-23T10:06:36.466Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.18.tgz",
+    "unpackedBytes": 1086149,
+    "fileCount": 711,
+    "integrity": "sha512-Fu7hEPvdwtPG8LqSAiPn8p8HjD+PDxrP/HVnwRBnwtVKOn5zDDKsw0ma2Xt58oq97Rlp3t/mRNADEV/Ym6cDng==",
+    "shasum": "18fdc3cfe1540c5aa286a94b2ed5a66fce87241b"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.17",
+    "date": "2025-01-18T08:15:39.058Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.17.tgz",
+    "unpackedBytes": 1067289,
+    "fileCount": 711,
+    "integrity": "sha512-Kbh4M0so2RzLiIg6iP33DoTU68TdvP2O/kb1Hhhdwa37fazuf402ig8ZRfjkz2dqXwiWl2dAgh0f++TuKAdOtQ==",
+    "shasum": "143b9cba563caaf37584cecc25166c9450ea47cc"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.19",
+    "date": "2025-01-26T09:32:38.688Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.19.tgz",
+    "unpackedBytes": 1086290,
+    "fileCount": 711,
+    "integrity": "sha512-Xw5DwU2cewEsQ1DkDCdy6aBJkEBARl5loovoL1gL3/gw81RdaPbXrNJYp3LoQpzpJ7ECC/1OFi/vn3UZTLHFEw==",
+    "shasum": "2b9daa01282061acd907c64a73fbd43f1a58e541"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.3",
+    "date": "2025-03-05T01:14:53.353Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.3.tgz",
+    "unpackedBytes": 1132938,
+    "fileCount": 529,
+    "integrity": "sha512-WzrIDIXJdcMzRP/WuAYuss22Zbwon19ovg9JPelV1KhcMYuV3B5cli0s+NMu3+ANWx2m8Ay2IuXvVsSDEeN15w==",
+    "shasum": "f7e5e9d292d0d3bba493b2cd3e2607ee84cf14d4"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.2",
+    "date": "2025-02-18T20:55:40.918Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.2.tgz",
+    "unpackedBytes": 1132794,
+    "fileCount": 529,
+    "integrity": "sha512-8V5XxoOF6SI12jkHkzX/6aLBMU5GEF5g387EjVSQipS0DlxWgWGSMeEayY3CRBjtTUQYwLHx9JYouWqKzy2Vng==",
+    "shasum": "8d8285060d318e71d75fd5c886572e021b8fcb54"
+  },
+  {
+    "name": "hono",
+    "version": "4.6.20",
+    "date": "2025-01-31T06:29:21.618Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.6.20.tgz",
+    "unpackedBytes": 1071169,
+    "fileCount": 511,
+    "integrity": "sha512-5qfNQeaIptMaJKyoJ6N/q4gIq0DBp2FCRaLNuUI3LlJKL4S37DY/rLL1uAxA4wrPB39tJ3s+f7kgI79O4ScSug==",
+    "shasum": "9cf3d89e50484d3cd13d867a4fb094f09c9a9c20"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.0",
+    "date": "2025-02-07T05:54:46.131Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.0.tgz",
+    "unpackedBytes": 1132375,
+    "fileCount": 529,
+    "integrity": "sha512-hV97aIR4WYbG30k234sD9B3VNr1ZWdQRmrVF76LKFlmI7O9Yo70mG9+mFwyQ6Sjrz4wH71GfnBxv6CPjcx3QNw==",
+    "shasum": "ccd1f607c7e5501c70e508729cd8868ffbf7f72a"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.1",
+    "date": "2025-02-13T08:47:08.405Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.1.tgz",
+    "unpackedBytes": 1132540,
+    "fileCount": 529,
+    "integrity": "sha512-V3eWoPkBxoNgFCkSc5Y5rpLF6YoQQx1pkYO4qrF6YfOw8RZbujUNlJLZCxh0z9gZct70+je2Ih7Zrdpv21hP9w==",
+    "shasum": "0eea31bce9a4080510614b3bddb9fa5854229f0c"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.4",
+    "date": "2025-03-05T01:34:59.956Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.4.tgz",
+    "unpackedBytes": 1132982,
+    "fileCount": 529,
+    "integrity": "sha512-Pst8FuGqz3L7tFF+u9Pu70eI0xa5S3LPUmrNd5Jm8nTHze9FxLTK9Kaj5g/k4UcwuJSXTP65SyHOPLrffpcAJg==",
+    "shasum": "27294b29792242486ed83de3e9fc25c46768c372"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.5",
+    "date": "2025-03-20T06:49:50.133Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.5.tgz",
+    "unpackedBytes": 1133290,
+    "fileCount": 529,
+    "integrity": "sha512-fDOK5W2C1vZACsgLONigdZTRZxuBqFtcKh7bUQ5cVSbwI2RWjloJDcgFOVzbQrlI6pCmhlTsVYZ7zpLj4m4qMQ==",
+    "shasum": "5e28b48384971c16e011fe6f7b95668655d4b855"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.6",
+    "date": "2025-04-08T07:24:44.765Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.6.tgz",
+    "unpackedBytes": 1133467,
+    "fileCount": 529,
+    "integrity": "sha512-564rVzELU+9BRqqx5k8sT2NFwGD3I3Vifdb6P7CmM6FiarOSY+fDC+6B+k9wcCb86ReoayteZP2ki0cRLN1jbw==",
+    "shasum": "3b577a825de3bf97b27705d918890a660726835e"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.7",
+    "date": "2025-04-15T23:40:06.855Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.7.tgz",
+    "unpackedBytes": 1133291,
+    "fileCount": 529,
+    "integrity": "sha512-2PCpQRbN87Crty8/L/7akZN3UyZIAopSoRxCwRbJgUuV1+MHNFHzYFxZTg4v/03cXUm+jce/qa2VSBZpKBm3Qw==",
+    "shasum": "ad01a92a2a1b03c608ef42153c85c99c05c03bfe"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.9",
+    "date": "2025-05-09T04:50:01.285Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.9.tgz",
+    "unpackedBytes": 1134615,
+    "fileCount": 529,
+    "integrity": "sha512-/EsCoR5h7N4yu01TDu9GMCCJa6ZLk5ZJIWFFGNawAXmd1Tp53+Wir4xm0D2X19bbykWUlzQG0+BvPAji6p9E8Q==",
+    "shasum": "3a6eb29ab22da65607c00b36bc9010173b9d1cf2"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.8",
+    "date": "2025-04-28T05:33:37.627Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.8.tgz",
+    "unpackedBytes": 1134479,
+    "fileCount": 529,
+    "integrity": "sha512-PCibtFdxa7/Ldud9yddl1G81GjYaeMYYTq4ywSaNsYbB1Lug4mwtOMJf2WXykL0pntYwmpRJeOI3NmoDgD+Jxw==",
+    "shasum": "f84ffd39b69f1c851fe0b58efb207ee2b2cdac3a"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.10",
+    "date": "2025-05-17T12:32:41.065Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.10.tgz",
+    "unpackedBytes": 1134836,
+    "fileCount": 529,
+    "integrity": "sha512-QkACju9MiN59CKSY5JsGZCYmPZkA6sIW6OFCUp7qDjZu6S6KHtJHhAc9Uy9mV9F8PJ1/HQ3ybZF2yjCa/73fvQ==",
+    "shasum": "c2400f068ac64e1b10b575b63321d494c9e70f86"
+  },
+  {
+    "name": "hono",
+    "version": "4.7.11",
+    "date": "2025-05-31T20:43:17.594Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.7.11.tgz",
+    "unpackedBytes": 1135235,
+    "fileCount": 529,
+    "integrity": "sha512-rv0JMwC0KALbbmwJDEnxvQCeJh+xbS3KEWW5PC9cMJ08Ur9xgatI0HmtgYZfOdOSOeYsp5LO2cOhdI8cLEbDEQ==",
+    "shasum": "369819d9daca5822db7b123462c5ce20b121c640"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.1",
+    "date": "2025-06-19T21:53:23.563Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.1.tgz",
+    "unpackedBytes": 1149383,
+    "fileCount": 535,
+    "integrity": "sha512-ErA2ifywnSmcnB5XDuFqGDfXJ9xuAJR2C/8cZAk6vDaOCzofB8eNlha/wZWIiamREzWk94S9Z7wHsnKQHn7Niw==",
+    "shasum": "d8c661ff6d947f3e7566ed9d92cb700fb00e58c4"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.0",
+    "date": "2025-06-17T22:32:09.272Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.0.tgz",
+    "unpackedBytes": 1149507,
+    "fileCount": 535,
+    "integrity": "sha512-NoiHrqJxoe1MYXqW+/0/Q4NCizKj2Ivm4KmX8mOSBtw9UJ7KYaOGKkO7csIwO5UlZpfvVRdcgiMb0GGyjEjtcw==",
+    "shasum": "0dae296efd89c48541f8e6cf3516408dcccaa209"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.2",
+    "date": "2025-06-20T22:57:55.734Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.2.tgz",
+    "unpackedBytes": 1149554,
+    "fileCount": 535,
+    "integrity": "sha512-hM+1RIn9PK1I6SiTNS6/y7O1mvg88awYLFEuEtoiMtRyT3SD2iu9pSFgbBXT3b1Ua4IwzvSTLvwO0SEhDxCi4w==",
+    "shasum": "806ea770de3d799b7ff17dc9a17c430bf338ed99"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.3",
+    "date": "2025-06-24T22:46:53.439Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.3.tgz",
+    "unpackedBytes": 1149849,
+    "fileCount": 535,
+    "integrity": "sha512-jYZ6ZtfWjzBdh8H/0CIFfCBHaFL75k+KMzaM177hrWWm2TWL39YMYaJgB74uK/niRc866NMlH9B8uCvIo284WQ==",
+    "shasum": "4260b812b73d237be3b0e66cfe53089c20014f96"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.4",
+    "date": "2025-07-04T09:25:02.615Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.4.tgz",
+    "unpackedBytes": 1150663,
+    "fileCount": 535,
+    "integrity": "sha512-KOIBp1+iUs0HrKztM4EHiB2UtzZDTBihDtOF5K6+WaJjCPeaW4Q92R8j63jOhvJI5+tZSMuKD9REVEXXY9illg==",
+    "shasum": "edc0e70e83c81c0977f3a786435906e7fda48fe4"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.5",
+    "date": "2025-07-14T05:53:08.125Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.5.tgz",
+    "unpackedBytes": 1151590,
+    "fileCount": 535,
+    "integrity": "sha512-Up2cQbtNz1s111qpnnECdTGqSIUIhZJMLikdKkshebQSEBcoUKq6XJayLGqSZWidiH0zfHRCJqFu062Mz5UuRA==",
+    "shasum": "a3b7703649a86f608c148e9aa1ca9ea41266cf8e"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.8",
+    "date": "2025-07-25T15:47:43.253Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.8.tgz",
+    "unpackedBytes": 1151231,
+    "fileCount": 535,
+    "integrity": "sha512-GbxTGB93Y+MOwCL2tnf9nE6L2Bn3s9D0pS+Mh1FoU4gkuecMVmg8VvHHLO702tq8y9N2fcrlcP8eCm7/feucng==",
+    "shasum": "073b893275dd9a195eb55d1eb1858afb9c47741d"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.7",
+    "date": "2025-07-25T07:26:09.701Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.7.tgz",
+    "unpackedBytes": 1151399,
+    "fileCount": 535,
+    "integrity": "sha512-gS/IyUw6MzcdnOyVRcRshn9hc/EygYc75glsnI3iESod3kGg9Mz194Y9NWJN8O/4qybIoonyIq6E4agc/t0i/g==",
+    "shasum": "e7b7fa5791b6c7cb8f8aff1ebb413e24efa4a4fe"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.6",
+    "date": "2025-07-25T07:01:02.555Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.6.tgz",
+    "unpackedBytes": 1151399,
+    "fileCount": 535,
+    "integrity": "sha512-dNNdr2PqJJayHWVcbme7teJDPUsc4KRu5AbS6mmmCDnwBs+E1eaXodZ2oFE7flbCp4o6aCq/hbKaa7lnmrXsqQ==",
+    "shasum": "b168988a3e6d62a05abc9aa7461f2f32b1e7d3b7"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.9",
+    "date": "2025-07-26T00:04:56.233Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.9.tgz",
+    "unpackedBytes": 1150605,
+    "fileCount": 535,
+    "integrity": "sha512-ERIxkXMRhUxGV7nS/Af52+j2KL60B1eg+k6cPtgzrGughS+espS9KQ7QO0SMnevtmRlBfAcN0mf1jKtO6j/doA==",
+    "shasum": "70626fa38d0ad69698e3573d1f84db97dae76b72"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.11",
+    "date": "2025-08-01T23:44:41.499Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.11.tgz",
+    "unpackedBytes": 1150828,
+    "fileCount": 535,
+    "integrity": "sha512-o9G+3myW7osYoDsa+8UKwScJ3+KjFJVcaDwjsY7pC1/4Hu1LV8l5SGpSM0H9RYAji2Vg/CxfX7hCx3Nj0cd3uw==",
+    "shasum": "b53217374b4bf28f3637cd8777f52db0f2b01860"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.10",
+    "date": "2025-07-29T08:21:54.987Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.10.tgz",
+    "unpackedBytes": 1150903,
+    "fileCount": 535,
+    "integrity": "sha512-DRMYbR3aFk6YET1FCSAFbgF2cWYTz5j0YAFYPECx9fmrbKBDAYnWU+YCgRTpOaatxMYN6e68U/2IG39zRP4W/A==",
+    "shasum": "0e3a8c2077e9142f54b2b34499f45f67ed4c9821"
+  },
+  {
+    "name": "hono",
+    "version": "4.8.12",
+    "date": "2025-08-02T01:12:50.240Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.8.12.tgz",
+    "unpackedBytes": 1151161,
+    "fileCount": 535,
+    "integrity": "sha512-MQSKk1Mg7b74k8l+A025LfysnLtXDKkE4pLaSsYRQC5iy85lgZnuyeQ1Wynair9mmECzoLu+FtJtqNZSoogBDQ==",
+    "shasum": "9f4729f257f00136881a63cc166b29bd5da38944"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.0",
+    "date": "2025-08-07T23:24:52.263Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.0.tgz",
+    "unpackedBytes": 1165364,
+    "fileCount": 541,
+    "integrity": "sha512-JAUc4Sqi3lhby2imRL/67LMcJFKiCu7ZKghM7iwvltVZzxEC5bVJCsAa4NTnSfmWGb+N2eOVtFE586R+K3fejA==",
+    "shasum": "dee39d4a1859ef00dfec6e8b9bd4b0ef2e134870"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.1",
+    "date": "2025-08-12T11:45:12.618Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.1.tgz",
+    "unpackedBytes": 1166165,
+    "fileCount": 541,
+    "integrity": "sha512-qfvdJ42t6CQE0N/iSCa8KsW8SQqYD67YB+TYbwPHlnALvX+s7ynh8otR1NEk5jXtUg73gpV/B82OSufDmwtX3w==",
+    "shasum": "b64463f5f15e6320476764c9295454dc51053e12"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.4",
+    "date": "2025-08-22T02:50:53.871Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.4.tgz",
+    "unpackedBytes": 1169958,
+    "fileCount": 541,
+    "integrity": "sha512-61hl6MF6ojTl/8QSRu5ran6GXt+6zsngIUN95KzF5v5UjiX/xnrLR358BNRawwIRO49JwUqJqQe3Rb2v559R8Q==",
+    "shasum": "cc50f0d18136aa14e0ca920b8daa469faa6fb5ba"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.2",
+    "date": "2025-08-15T08:59:06.627Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.2.tgz",
+    "unpackedBytes": 1166235,
+    "fileCount": 541,
+    "integrity": "sha512-UG2jXGS/gkLH42l/1uROnwXpkjvvxkl3kpopL3LBo27NuaDPI6xHNfuUSilIHcrBkPfl4y0z6y2ByI455TjNRw==",
+    "shasum": "ac45a41707da1966134df11cc0b43389098e29d8"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.3",
+    "date": "2025-08-22T02:29:40.183Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.3.tgz",
+    "unpackedBytes": 1169910,
+    "fileCount": 541,
+    "integrity": "sha512-GQgYqvVNQUuSnhiK36lZOaa48ZNlJkcYUR052o8BM2EK7xDdORB/aYKfooUM05IjlnEvq3BWofaVit77YDM7xA==",
+    "shasum": "c43abb32711078777b643923afc4eeccd0ef30e1"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.5",
+    "date": "2025-08-29T09:41:50.790Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.5.tgz",
+    "unpackedBytes": 1170382,
+    "fileCount": 541,
+    "integrity": "sha512-aLAVl5/67ifNnoFVxnhR89dpmSLsgwBprw/PT671ASwUpJqmd7Ne8KPTQo37DbRZfgpHaHeZ4bPVUvbOkeedMw==",
+    "shasum": "c89838109e6c1bd098c42c7c3a56934d8149a7ef"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.6",
+    "date": "2025-09-03T04:18:06.106Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.6.tgz",
+    "unpackedBytes": 1170332,
+    "fileCount": 541,
+    "integrity": "sha512-doVjXhSFvYZ7y0dNokjwwSahcrAfdz+/BCLvAMa/vHLzjj8+CFyV5xteThGUsKdkaasgN+gF2mUxao+SGLpUeA==",
+    "shasum": "fe1f37ec78f574b9ddcffa1d79d399b3a8a12d31"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.7",
+    "date": "2025-09-12T06:29:37.359Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.7.tgz",
+    "unpackedBytes": 1170790,
+    "fileCount": 541,
+    "integrity": "sha512-t4Te6ERzIaC48W3x4hJmBwgNlLhmiEdEE5ViYb02ffw4ignHNHa5IBtPjmbKstmtKa8X6C35iWwK4HaqvrzG9w==",
+    "shasum": "8ac244477397de71d7d3d393fad129209b5b631e"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.9",
+    "date": "2025-09-26T23:43:59.369Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.9.tgz",
+    "unpackedBytes": 1172158,
+    "fileCount": 541,
+    "integrity": "sha512-Hxw4wT6zjJGZJdkJzAx9PyBdf7ZpxaTSA0NfxqjLghwMrLBX8p33hJBzoETRakF3UJu6OdNQBZAlNSkGqKFukw==",
+    "shasum": "a32ee02a5a9c4be8e7f4d48e4e181e738a1d65d7"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.8",
+    "date": "2025-09-18T09:03:10.689Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.8.tgz",
+    "unpackedBytes": 1171172,
+    "fileCount": 541,
+    "integrity": "sha512-JW8Bb4RFWD9iOKxg5PbUarBYGM99IcxFl2FPBo2gSJO11jjUDqlP1Bmfyqt8Z/dGhIQ63PMA9LdcLefXyIasyg==",
+    "shasum": "1710981135ec775fe26fab5ea6535b403e92bcc3"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.10",
+    "date": "2025-10-05T13:51:19.708Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.10.tgz",
+    "unpackedBytes": 1172954,
+    "fileCount": 541,
+    "integrity": "sha512-AlI15ijFyKTXR7eHo7QK7OR4RoKIedZvBuRjO8iy4zrxvlY5oFCdiRG/V/lFJHCNXJ0k72ATgnyzx8Yqa5arug==",
+    "shasum": "27ac828dd5ddaf3947e1a207dad9f079d3cf1b12"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.11",
+    "date": "2025-10-11T11:33:21.821Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.11.tgz",
+    "unpackedBytes": 1185561,
+    "fileCount": 547,
+    "integrity": "sha512-MyJ4xop3boTyXl8bJBh4i20AAZTLM3AXUJphyrUb0CpgTKYb1N703z53XiKUKchGUpcPqiiYkiLOXA3kqK3icA==",
+    "shasum": "4d8488740e3f96bbe186ee7a60835852f3cfcc62"
+  },
+  {
+    "name": "hono",
+    "version": "4.9.12",
+    "date": "2025-10-13T08:54:37.683Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.9.12.tgz",
+    "unpackedBytes": 1186043,
+    "fileCount": 547,
+    "integrity": "sha512-SrTC0YxqPwnN7yKa8gg/giLyQ2pILCKoideIHbYbFQlWZjYt68D2A4Ae1hehO/aDQ6RmTcpqOV/O2yBtMzx/VQ==",
+    "shasum": "065fe58e119e724ec228974bc369e5560a6c3bb2"
+  },
+  {
+    "name": "hono",
+    "version": "4.10.0",
+    "date": "2025-10-16T21:45:55.477Z",
+    "tarballUrl": "https://registry.npmjs.org/hono/-/hono-4.10.0.tgz",
+    "unpackedBytes": 1201646,
+    "fileCount": 547,
+    "integrity": "sha512-V/S2IyKL6fk5+bEjiQzg74r5BglqAwU20IX3WjdTUFgvmtSqAZjSxN/Zb5lr6/JXVmH0aqkqOq++3UgzOi9+4Q==",
+    "shasum": "c749c2d08bfcf85698d311ca997700d12376f873"
+  }
+]
